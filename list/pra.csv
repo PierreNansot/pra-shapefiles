@@ -1,0 +1,725 @@
+Numéro;Petite région agricole;Région agricole SAFER;Région agricole MdA;Vieille Région agricole MdA;code pra;code safer;code minister;code insee
+01;Bresse;Bresse;Bresse;Bresse;pra1;ra1;ram1;1446
+01;Bugey;Bugey;Bugey;Bugey;pra2;ra2;ram2;1451
+01;Coteaux en bordure des Dombes;Vallée de la Saône, Dombes;Vallée de la Saône, Dombes;Coteaux en bordure des Dombes;pra3;ra3;ram3;1201
+01;Dombes;Vallée de la Saône, Dombes;Vallée de la Saône, Dombes;Dombes;pra4;ra3;ram3;1198
+01;Haut-Bugey;Pays de Gex, Haut-Bugey;Pays de Gex, haut Bugey;Haut-Bugey;pra5;ra4;ram4;1449
+01;Vallée de la Saône;Vallée de la Saône, Dombes;Vallée de la Saône, Dombes;Vallée de la Saône;pra6;ra3;ram3;1195
+01;Zone d'élevage du Pays de Gex (2ème zone);Pays de Gex, Haut-Bugey;Pays de Gex, haut Bugey;Zone d'élevage du Pays de Gex (2ème zone);pra7;ra4;ram4;1216
+01;Zone forestière du Pays de Gex (1ère zone);Pays de Gex, Haut-Bugey;Pays de Gex, haut Bugey;Zone forestière du Pays de Gex (1ère zone);pra8;ra4;ram4;1215
+02;Champagne crayeuse;Saint-Quentinois et Laonnois, Champagne crayeuse;Saint-Quentinois et Laonnois, Champagne;Champagne crayeuse;pra9;ra5;ram5;2317
+02;Saint-Quentinois et Laonnois;Saint-Quentinois et Laonnois, Champagne crayeuse;Saint-Quentinois et Laonnois, Champagne;Saint-Quentinois et Laonnois;pra10;ra5;ram5;2034
+02;Soissonnais;Soissonnais, Valois;Soissonnais, Valois;Soissonnais;pra11;ra6;ram6;2328
+02;Tardenois et Brie;Tardenois et Brie;Tardenois et Brie;Tardenois et Brie;pra12;ra7;ram7;2336
+02;Thiérache;Thiérache;Thiérache;Thiérache;pra13;ra8;ram8;2323
+02;Valois;Soissonnais, Valois;Soissonnais, Valois;Valois;pra14;ra6;ram6;2329
+03;Bocage bourbonnais;Bocage bourbonnais;Bocage bourbonnais;Bocage bourbonnais;pra15;ra9;ram9;3178
+03;Combraille bourbonnaise;Montagne et Combraille bourbonnaise;Montagne et Combraille bourbonnaise;Combraille bourbonnaise;pra16;ra10;ram10;3428
+03;Montagne bourbonnaise;Montagne et Combraille bourbonnaise;Montagne et Combraille bourbonnaise;Montagne bourbonnaise;pra17;ra10;ram10;3425
+03;Sologne bourbonnaise;Sologne bourbonnaise;Sologne bourbonnaise;Sologne bourbonnaise;pra18;ra11;ram11;3429
+03;Val d’Allier;Val d’Allier;Val d'Allier;Val d’Allier;pra19;ra12;ram12;3426
+04;Montagne de Haute-Provence;Sisteronnais, Montagne de Haute-Provence;Sisteronnais, montagne de Haute-Provence;Montagne de Haute-Provence;pra20;ra13;ram13;4460
+04;Plateau de Forcalquier;Plateau de Forcalquier;Plateau de Forcalquier;Plateau de Forcalquier;pra21;ra14;ram14;4462
+04;Plateau de Valensole;Plateau de Valensole;Plateau de Valensole;Plateau de Valensole;pra22;ra15;ram15;4233
+04;Sisteronnais;Sisteronnais, Montagne de Haute-Provence;Sisteronnais, montagne de Haute-Provence;Sisteronnais;pra23;ra13;ram13;4459
+04;Val de Durance;Val de Durance;Val de Durance;Val de Durance;pra24;ra16;ram16;4466
+05;Bochaine;Ouest Hautes-Alpes;Ouest Hautes-Alpes;Bochaine;pra25;ra17;ram17;5461
+05;Briançonnais;Est Hautes-Alpes;Est Hautes-Alpes;Briançonnais;pra26;ra18;ram18;5457
+05;Champsaur;Est Hautes-Alpes;Est Hautes-Alpes;Champsaur;pra27;ra18;ram18;5235
+05;Devoluy;Ouest Hautes-Alpes;Ouest Hautes-Alpes;Devoluy;pra28;ra17;ram17;5236
+05;Embrunais;Est Hautes-Alpes;Est Hautes-Alpes;Embrunais;pra29;ra18;ram18;5237
+05;Gapençais;Ouest Hautes-Alpes;Ouest Hautes-Alpes;Gapençais;pra30;ra17;ram17;5239
+05;Haut-Embrunais;Est Hautes-Alpes;Est Hautes-Alpes;Haut-Embrunais;pra31;ra18;ram18;5232
+05;Laragnais;Ouest Hautes-Alpes;Ouest Hautes-Alpes;Laragnais;pra32;ra17;ram17;5459
+05;Queyras;Est Hautes-Alpes;Est Hautes-Alpes;Queyras;pra33;ra18;ram18;5231
+05;Serrois-Rosannais;Ouest Hautes-Alpes;Ouest Hautes-Alpes;Serrois-Rosannais;pra34;ra17;ram17;5463
+06;Alpes niçoises;Alpes niçoises;Alpes Maritimes;Alpes niçoises;pra35;ra19;ram19;6250
+06;Coteaux niçois;Alpes niçoises;Alpes Maritimes;Coteaux niçois;pra36;ra19;ram387;6245
+06;Littoral niçois;Alpes niçoises;Alpes Maritimes;Littoral niçois;pra37;ra19;ram388;6249
+07;Bas-Vivarais;Coiron, Bas-Vivarais, Vallée du Rhône;Coiron, bas Vivarais, vallée du Rhône;Bas-Vivarais;pra38;ra20;ram20;7422
+07;Coiron;Coiron, Bas-Vivarais, Vallée du Rhône;Coiron, bas Vivarais, vallée du Rhône;Coiron;pra39;ra20;ram20;7169
+07;Massif du Mézenc-Meygal;Plateau, montagne ardéchoise;Plateau, montagne ardéchoise;Massif du Mézenc-Meygal;pra40;ra21;ram21;7423
+07;Monts du Forez;Plateau, montagne ardéchoise;Plateau, montagne ardéchoise;Monts du Forez;pra41;ra21;ram21;7425
+07;Plateaux du Haut et Moyen-Vivarais;Plateau, montagne ardéchoise;Plateau, montagne ardéchoise;Plateaux du Haut et Moyen-Vivarais;pra42;ra21;ram21;7171
+07;Vallée du Rhône;Coiron, Bas-Vivarais, Vallée du Rhône;Coiron, bas Vivarais, vallée du Rhône;Vallée du Rhône;pra43;ra20;ram20;7465
+07;Velay basaltique;Plateau, montagne ardéchoise;Plateau, montagne ardéchoise;Velay basaltique;pra44;ra21;ram21;7424
+08;Ardenne;Ardenne;Ardenne;Ardenne;pra45;ra22;ram22;8021
+08;Argonne;Crêtes pré-ardennaises, Argonne;Crêtes préardennaises, Argonne;Argonne;pra46;ra23;ram23;8315
+08;Champagne crayeuse;Champagne crayeuse, Thiérache;Champagne crayeuse, Thiérache;Champagne crayeuse;pra47;ra24;ram24;8317
+08;Crêtes pré-ardennaises;Crêtes pré-ardennaises, Argonne;Crêtes préardennaises, Argonne;Crêtes pré-ardennaises;pra48;ra23;ram23;8022
+08;Thiérache;Champagne crayeuse, Thiérache;Champagne crayeuse, Thiérache;Thiérache;pra49;ra24;ram24;8323
+09;Coteaux de l’Ariège;Coteaux de l’Ariège;Coteaux de l'Ariège;Coteaux de l'Ariège;pra50;ra25;ram25;9392
+09;Plaine de l’Ariège;Plaine de l’Ariège;Plaine de l'Ariège;Plaine de l'Ariège;pra51;ra26;ram26;9390
+09;Région pyrénéenne;Région pyrénéenne;Région pyrénéenne;Région pyrénéenne;pra52;ra27;ram27;9472
+09;Région sous-pyrénéenne;Région sous-pyrénéenne;Région sous-pyrénéenne;Région sous-pyrénéenne;pra53;ra28;ram28;9393
+10;Champagne crayeuse;Champagne crayeuse, Nogentais;Champagne crayeuse, Nogentais;Champagne crayeuse;pra54;ra29;ram29;10317
+10;Champagne humide;Champagne humide, Plaine de Brienne;Champagne humide, Plaine de Brienne;Champagne humide;pra55;ra30;ram30;10318
+10;Nogentais;Champagne crayeuse, Nogentais;Champagne crayeuse, Nogentais;Nogentais;pra56;ra29;ram29;10335
+10;Pays d’Othe;Plaine de Troyes, Pays d’Othe;Plaine de Troyes, Pays d’Othe;Pays d’Othe;pra57;ra31;ram31;10319
+10;Plaine de Brienne;Champagne humide, Plaine de Brienne;Champagne humide, Plaine de Brienne;Plaine de Brienne;pra58;ra30;ram31;10014
+10;Plaine de Troyes;Plaine de Troyes, Pays d’Othe;Plaine de Troyes, Pays d’Othe;Plaine de Troyes;pra59;ra31;ram31;10015
+10;Vallée de la Champagne crayeuse;Champagne crayeuse, Nogentais;Champagne crayeuse, Nogentais;Vallée de la Champagne crayeuse;pra60;ra29;ram31;10013
+10;Vallée de la Champagne humide;Champagne humide, Plaine de Brienne;Champagne humide, Plaine de Brienne;Vallée de la Champagne humide;pra61;ra30;ram30;10020
+10;Vallée du Nogentais;Champagne crayeuse, Nogentais;Champagne crayeuse, Nogentais;Vallée du Nogentais;pra62;ra29;ram29;10019
+10;Vignoble du Barrois;Vignoble du Barrois;Vignoble du Barrois;Vignoble du Barrois;pra63;ra32;ram32;10011
+11;Lauragais;Montagne noire, Lauragais, Région viticole;Montagne noire, Lauragais, région viticole;Lauragais;pra64;ra33;ram33;11391
+11;Montagne noire;Montagne noire, Lauragais, Région viticole;Montagne noire, Lauragais, région viticole;Montagne noire;pra65;ra33;ram33;11413
+11;Narbonnais;Narbonnais;Narbonnais;Narbonnais;pra66;ra34;ram34;11471
+11;Pays de Sault;Razès, Pays de Sault;Razès, Pays de Sault;Pays de Sault;pra67;ra35;ram35;11472
+11;Razès;Razès, Pays de Sault;Razès, Pays de Sault;Razès;pra68;ra35;ram35;11392
+11;Région viticole;Montagne noire, Lauragais, Région viticole;Montagne noire, Lauragais, région viticole;Région viticole;pra69;ra33;ram33;11470
+12;Aubrac;Nord Aveyron;Nord Aveyron;Aubrac;pra70;ra36;ram36;12419
+12;Bas-Quercy;Bas-Quercy;Bas-Quercy;Bas-Quercy;pra71;ra37;ram37;12397
+12;Grands Causses;Lévezou, Grands Causses, Monts de Lacaune;Lévezou, Grands Causses, Monts de Lacaune;Grands Causses;pra72;ra38;ram38;12411
+12;Lévezou;Lévezou, Grands Causses, Monts de Lacaune;Lévezou, Grands Causses, Monts de Lacaune;Lévezou;pra73;ra38;ram38;12162
+12;Monts de Lacaune;Lévezou, Grands Causses, Monts de Lacaune;Lévezou, Grands Causses, Monts de Lacaune;Monts de Lacaune;pra74;ra38;ram38;12412
+12;Rougier de Marcillac;Nord Aveyron;Nord Aveyron;Rougier de Marcillac;pra75;ra36;ram36;12161
+12;Ségala;Ségala;Ségala;Ségala;pra76;ra39;ram39;12409
+12;Viadène et Vallée du Lot;Nord Aveyron;Nord Aveyron;Viadène et Vallée du Lot;pra77;ra36;ram36;12407
+13;Basse-vallée de la Durance;Basse-vallée de la Durance;Basse vallée de la Durance;Basse-vallée de la Durance;pra78;ra40;ram40;13466
+13;Camargue;Camargue, Crau, Littoral de Provence;Camargue, Crau, littoral de Provence;Camargue;pra79;ra41;ram41;13244
+13;Comtat;Comtat;Comtat;Comtat;pra80;ra42;ram42;13467
+13;Coteaux de Provence;Coteaux de Provence;Coteaux de Provence;Coteaux de Provence;pra81;ra43;ram43;13468
+13;Crau;Camargue, Crau, Littoral de Provence;Camargue, Crau, littoral de Provence;Crau;pra82;ra41;ram41;13246
+13;Littoral de Provence;Camargue, Crau, Littoral de Provence;Camargue, Crau, littoral de Provence;Littoral de Provence;pra83;ra41;ram41;13469
+14;Bessin;Bessin;Bessin;Bessin;pra84;ra44;ram44;14085
+14;Bocage;Bocage;Bocage;Bocage;pra85;ra45;ram45;14354
+14;Pays d’Auge sud;Pays d’Auge sud;Pays d'Auge Sud;Pays d'Auge;pra86;ra46;ram46;14353
+14;Pays d'Auge nord;Pays d'Auge nord;Pays d'Auge Nord;Pays d'Auge;pra87;ra47;ram47;14353
+14;Plaine de Caen nord;Plaine de Caen nord;Plaine de Caen Nord;Plaine de Caen et de falaise;pra88;ra48;ram48;14355
+14;Plaine de Caen sud;Plaine de Caen sud;Plaine de Caen Sud;Plaine de Caen et de falaise;pra89;ra49;ram49;14355
+15;Artense;Cantal, Sud-Est limousin, Artense;Cantal, Sud-Est Limousin, Artense;Artense;pra90;ra50;ram50;15421
+15;Aubrac;Massiac, Cézallier-Margeride, Aubrac et Planèze;Massiac, Cézallier-Margeride, Aubrac et Planèze;Aubrac;pra91;ra51;ram51;15419
+15;Bassin d'Aurillac;Châtaigneraie, Bassin d'Aurillac;Châtaigneraie, bassin d'Aurillac;Bassin d'Aurillac;pra92;ra52;ram52;15163
+15;Bassin de Massiac;Massiac, Cézallier-Margeride, Aubrac et Planèze;Massiac, Cézallier-Margeride, Aubrac et Planèze;Bassin de Massiac;pra93;ra51;ram51;15164
+15;Cantal;Cantal, Sud-Est limousin, Artense;Cantal, Sud-Est Limousin, Artense;Cantal;pra94;ra50;ram50;15420
+15;Cézallier;Massiac, Cézallier-Margeride, Aubrac et Planèze;Massiac, Cézallier-Margeride, Aubrac et Planèze;Cézallier;pra95;ra51;ram51;15417
+15;Châtaigneraie;Châtaigneraie, Bassin d'Aurillac;Châtaigneraie, bassin d'Aurillac;Châtaigneraie;pra96;ra52;ram52;15409
+15;Margeride;Massiac, Cézallier-Margeride, Aubrac et Planèze;Massiac, Cézallier-Margeride, Aubrac et Planèze;Margeride;pra97;ra51;ram51;15418
+15;Planète de Saint-Flour;Massiac, Cézallier-Margeride, Aubrac et Planèze;Massiac, Cézallier-Margeride, Aubrac et Planèze;Planète de Saint-Flour;pra98;ra51;ram51;15167
+15;Plateau du Sud-Est Limousin;Cantal, Sud-Est limousin, Artense;Cantal, Sud-Est Limousin, Artense;Plateau du Sud-Est Limousin;pra99;ra50;ram50;15433
+16;Angoumois-Ruffecois;Angoumois-Ruffecois;Angoumois-Ruffecois;Angoumois-Ruffecois;pra100;ra53;ram53;16113
+16;Brandes;Confolentais, Brandes;Confolentais, Brandes;Brandes;pra101;ra54;ram54;16438
+16;Cognaçais;Cognaçais;Cognaçais;Cognaçais;pra102;ra55;ram55;16377
+16;Confolentais;Confolentais, Brandes;Confolentais, Brandes;Confolentais;pra103;ra54;ram54;16432
+16;Montmorélien;Montmorélien;Montmorélien;Montmorélien;pra104;ra56;ram56;16112
+16;Plaine de la Mothe-Lezay;Angoumois-Ruffecois;Angoumois-Ruffecois;Plaine de la Mothe-Lezay;pra105;ra53;ram53;16367
+16;Plaine de Niort-Brioux;Angoumois-Ruffecois;Angoumois-Ruffecois;Plaine de Niort-Brioux;pra106;ra53;ram53;16371
+16;Saintonge agricole;Cognaçais;Cognaçais;Saintonge agricole;pra107;ra55;ram55;16375
+16;Terres rouges à châtaigniers;Angoumois-Ruffecois;Angoumois-Ruffecois;Terres rouges à châtaigniers;pra108;ra53;ram53;16372
+17;Aunis;Aunis;Aunis;Aunis;pra109;ra57;ram57;17374
+17;Double saintongeaise;Double saintongeaise;Double saintongeaise;Double saintongeaise;pra110;ra58;ram58;17376
+17;Marais de Rochefort et Marennes;Marais;Marais;Marais de Rochefort et Marennes;pra111;ra59;ram59;17111
+17;Marais poitevin desséché;Marais;Marais;Marais poitevin desséché;pra112;ra59;ram59;17369
+17;Saintonge agricole;Saintonge agricole;Saintonge agricole;Saintonge agricole;pra113;ra60;ram60;17375
+17;Saintonge viticole;Saintonge viticole;Saintonge viticole;Saintonge viticole;pra114;ra61;ram61;17377
+18;Boischaut;Boischaut, Marche;Boischaut, Marche;Boischaut;pra115;ra62;ram62;18436
+18;Champagne berrichonne;Champagne berrichonne;Champagne berrichonne;Champagne berrichonne;pra116;ra63;ram63;18434
+18;Marche;Boischaut, Marche;Boischaut, Marche;Marche;pra117;ra62;ram62;18437
+18;Pays Fort et Sancerrois;Pays Fort et Sancerrois, Val de Loire;Pays Fort et Sancerrois, Val de Loire;Pays Fort et Sancerrois;pra118;ra64;ram64;18439
+18;Sologne;Sologne;Sologne;Sologne;pra119;ra65;ram65;18343
+18;Val de Loire;Pays Fort et Sancerrois, Val de Loire;Pays Fort et Sancerrois, Val de Loire;Val de Loire;pra120;ra64;ram64;18066
+18;Vallée de Germigny;Vallée de Germigny;Vallée de Germigny;Vallée de Germigny;pra121;ra66;ram66;18179
+19;Artense;Artense, Plateau de Millevaches;Artense, plateau de Millevaches;Artense;pra122;ra67;ram67;19421
+19;Bas-pays de Brive;Causses, Bas-pays de Brive;Causses, bas pays de Brive;Bas-pays de Brive;pra123;ra68;ram68;19408
+19;Cantal;Xaintrie, Cantal, Plateau sud-est;Xaintrie, Cantal, plateau Sud-Est;Cantal;pra124;ra69;ram69;19420
+19;Causses;Causses, Bas-pays de Brive;Causses, bas pays de Brive;Causses;pra125;ra68;ram68;19394
+19;Haut-Limousin;Haut-Limousin;Haut-Limousin;Haut-Limousin;pra126;ra70;ram70;19432
+19;Périgord blanc;Causses, Bas-pays de Brive;Causses, bas pays de Brive;Périgord blanc;pra127;ra68;ram68;19403
+19;Plateau de Millevaches;Artense, Plateau de Millevaches;Artense, plateau de Millevaches;Plateau de Millevaches;pra128;ra67;ram67;19430
+19;Plateau du Sud-est Limousin;Xaintrie, Cantal, Plateau sud-est;Xaintrie, Cantal, plateau Sud-Est;Plateau du Sud-est Limousin;pra129;ra69;ram69;19433
+19;Xaintrie;Xaintrie, Cantal, Plateau sud-est;Xaintrie, Cantal, plateau Sud-Est;Xaintrie;pra130;ra69;ram69;19409
+21;Auxois;Morvan, Auxois;Morvan, Auxois;Auxois;pra131;ra71;ram71;21442
+21;Côte viticole et arrière-côte de Bourgogne;Côte viticole et arrière-côte de Bourgogne;Côte et arrière-côte viticole de Bourgogne;Côte viticole et arrière-côte de Bourgogne;pra132;ra72;ram72;21441
+21;La plaine;Vingeanne, La Plaine;Vingeanne, la plaine;La plaine;pra133;ra73;ram73;21440
+21;La vallée;Plateau et vallées du Châtillonais;Plateau et vallée du Châtillonnais;La vallée;pra134;ra74;ram74;21322
+21;Morvan;Morvan, Auxois;Morvan, Auxois;Morvan;pra135;ra71;ram71;21443
+21;Plateau Langrois montagne;Plateau et vallées du Châtillonais;Plateau et vallée du Châtillonnais;Plateau Langrois montagne;pra136;ra74;ram74;21311
+21;Tonnerois;Plateau et vallées du Châtillonais;Plateau et vallée du Châtillonnais;Tonnerois;pra137;ra74;ram74;21010
+21;Val de Saône;Val de Saône;Val de Saône;Val de Saône;pra138;ra75;ram75;21204
+21;Vingeanne;Vingeanne, La Plaine;Vingeanne, la plaine;Vingeanne;pra139;ra73;ram73;21312
+22;Bretagne centrale;Bretagne centrale;Bretagne centrale;Bretagne centrale;pra140;ra76;ram76;22359
+22;Landes des Monts d'Arrée et du Méné;Monts d’Arrée, Méné;Monts d'Arrée, Mené;Landes des Monts d'Arrée et du Méné;pra141;ra77;ram77;22360
+22;Littoral breton nord;Littoral breton nord;Littoral breton Nord;Littoral breton nord;pra142;ra78;ram78;22358
+22;Pénéplaine bretonne nord;Monts d’Arrée, Méné;Monts d'Arrée, Mené;Pénéplaine bretonne nord;pra143;ra77;ram77;22361
+22;Région du Sud-Ouest;Région du Sud-Ouest;Région du Sud-Ouest;Région du Sud-Ouest;pra144;ra79;ram79;22362
+23;Bas-Berry;Bas-Berry;Bas Berry;Bas-Berry;pra145;ra80;ram80;23437
+23;Combraille bourbonnaise;Combraille bourbonnaise;Combraille bourbonnaise;Combraille bourbonnaise;pra146;ra81;ram81;23428
+23;Haut-Limousin;Plateau de Millevaches, Haut-Limousin;Plateau de Millevaches, Haut-Limousin;Haut-Limousin;pra147;ra82;ram82;23432
+23;Marche;Marche;Marche;Marche;pra148;ra83;ram83;23431
+23;Plateau de Millevaches;Plateau de Millevaches, Haut-Limousin;Plateau de Millevaches, Haut-Limousin;Plateau de Millevaches;pra149;ra82;ram82;23430
+24;Bergeracois;Bergeracois;Bergeracois;Bergeracois;pra150;ra84;ram84;24401
+24;Causses;Périgord noir, Causses;Périgord noir, Causses;Causses;pra151;ra85;ram85;24394
+24;Double périgourdine;Double périgourdine, Landais;Double périgourdine, Landais;Double périgourdine;pra152;ra86;ram86;24405
+24;Landais;Double périgourdine, Landais;Double périgourdine, Landais;Landais;pra153;ra86;ram86;24406
+24;Nontronnais;Nontronnais;Nontronnais;Nontronnais;pra154;ra87;ram87;24432
+24;Périgord blanc;Périgord blanc;Périgord blanc;Périgord blanc;pra155;ra88;ram88;24403
+24;Périgord noir;Périgord noir, Causses;Périgord noir, Causses;Périgord noir;pra156;ra85;ram85;24404
+24;Ribéracois;Ribéracois;Ribéracois;Ribéracois;pra157;ra89;ram89;24158
+25;Montagne du Jura;Plateaux supérieurs et montagne;Plateaux supérieurs et montagnes;Montagne du Jura;pra158;ra90;ram90;25449
+25;Plateaux moyens du Jura;Plateaux moyens du Jura;Plateaux moyens du Jura;Plateaux moyens du Jura;pra159;ra91;ram91;25450
+25;Plateaux supérieurs du Jura;Plateaux supérieurs et montagne;Plateaux supérieurs et montagnes;Plateaux supérieurs du Jura;pra160;ra90;ram90;25452
+25;Zone des plaines et des basses-vallées;Zone des plaines et des basses-vallées;Zone des plaines et des basses vallées;Zone des plaines et des basses-vallées;pra161;ra92;ram92;25447
+26;Baronnies;Baronnies;Baronnies;Baronnies;pra162;ra93;ram93;26463
+26;Bochaine;Vercors et Diois;Vercors et Diois;Bochaine;pra163;ra94;ram94;26461
+26;Diois;Vercors et Diois;Vercors et Diois;Diois;pra164;ra94;ram94;26234
+26;Galaure et Herbasse;Valloire, Galaure et Herbasse;Valloire, Galaure et Herbasse;Galaure et Herbasse;pra165;ra95;ram95;26242
+26;Pays de Bourdeaux;Vercors et Diois;Vercors et Diois;Pays de Bourdeaux;pra166;ra94;ram94;26243
+26;Plaines rhodaniennes;Plaines rhodaniennes, Tricastin;Plaines rhodaniennes, Tricastin;Plaines rhodaniennes;pra167;ra96;ram96;26240
+26;Région de Royans;Plaines rhodaniennes, Tricastin;Plaines rhodaniennes, Tricastin;Région de Royans;pra168;ra96;ram96;26221
+26;Tricastin;Plaines rhodaniennes, Tricastin;Plaines rhodaniennes, Tricastin;Tricastin;pra169;ra96;ram96;26464
+26;Valloire;Valloire, Galaure et Herbasse;Valloire, Galaure et Herbasse;Valloire;pra170;ra95;ram95;26241
+26;Vercors;Vercors et Diois;Vercors et Diois;Vercors;pra171;ra94;ram94;26453
+27;Lieuvin;Lieuvin, Pays d’Auge;Lieuvin, pays d'Auge;Lieuvin;pra172;ra97;ram97;27077
+27;Marais Vernier;Roumois, Neubourg, Marais;Roumois, Neubourg, Marais;Marais Vernier;pra173;ra98;ram98;27051
+27;Pays d’Auge;Lieuvin, Pays d’Auge;Lieuvin, pays d'Auge;Pays d’Auge;pra174;ra97;ram97;27353
+27;Pays d’Ouche;Pays d’Ouche, Perche;Pays d'Ouche, Perche;Pays d’Ouche;pra175;ra99;ram99;27352
+27;Pays de Lyons;Entre Madrie et Lyons;Entre Madrie et Lyons;Pays de Lyons;pra176;ra100;ram100;27050
+27;Perche;Pays d’Ouche, Perche;Pays d'Ouche, Perche;Perche;pra177;ra99;ram99;27351
+27;Plateau d’Evreux Saint-André;Plateau d’Evreux Saint-André;Plateau d'Evreux Saint-André;Plateau d’Evreux Saint-André;pra178;ra101;ram101;27079
+27;Plateau de Madrie;Entre Madrie et Lyons;Entre Madrie et Lyons;Plateau de Madrie;pra179;ra100;ram100;27080
+27;Plateau de Neubourg;Roumois, Neubourg, Marais;Roumois, Neubourg, Marais;Plateau de Neubourg;pra180;ra98;ram98;27078
+27;Roumois;Roumois, Neubourg, Marais;Roumois, Neubourg, Marais;Roumois;pra181;ra98;ram98;27052
+27;Vallée de la Seine;Entre Madrie et Lyons;Entre Madrie et Lyons;Vallée de la Seine;pra182;ra100;ram100;27332
+27;Vexin bossu;Vexin normand, Vexin bossu;Vexin normand, Vexin bossu;Vexin bossu;pra183;ra102;ram102;27330
+27;Vexin normand;Vexin normand, Vexin bossu;Vexin normand, Vexin bossu;Vexin normand;pra184;ra102;ram102;27044
+28;Beauce;Beauce;Beauce;Beauce;pra185;ra103;ram103;28342
+28;Beauce dunoise;Beauce dunoise;Beauce dunoise;Beauce dunoise;pra186;ra104;ram104;28341
+28;Drouais Thimerais;Drouais Thimerais;Thymerais-Drouais;Drouais Thimerais;pra187;ra105;ram105;28334
+28;Faux Perche;Faux Perche;Faux Perche;Faux Perche;pra188;ra106;ram106;28076
+28;Perche;Perche;Perche;Perche;pra189;ra107;ram107;28351
+29;Bassin de Châteaulin;Bassin de Châteaulin;Bassin de Châteaulin;Bassin de Châteaulin;pra190;ra108;ram108;29362
+29;Littoral breton nord;Littoral breton nord;Littoral breton Nord;Littoral breton nord;pra191;ra109;ram109;29358
+29;Monts d’Arrée;Monts d’Arrée;Monts d'Arrée;Monts d’Arrée;pra192;ra110;ram110;29360
+29;Pénéplaine bretonne nord;Pourtour rade de Brest, Pénéplaine bretonne nord;Pourtour rade de Brest, pénéplaine bretonne Nord;Pénéplaine bretonne nord;pra193;ra111;ram111;29361
+29;Pénéplaine bretonne sud;Pénéplaine bretonne sud;Pénéplaine bretonne Sud;Pénéplaine bretonne sud;pra194;ra112;ram112;29363
+29;Presqu'île de Crozon;Pourtour rade de Brest, Pénéplaine bretonne nord;Pourtour rade de Brest, pénéplaine bretonne Nord;Presqu'île de Crozon;pra195;ra111;ram111;29102
+29;Zone côtière de Brest;Pourtour rade de Brest, Pénéplaine bretonne nord;Pourtour rade de Brest, pénéplaine bretonne Nord;Zone côtière de Brest;pra196;ra111;ram111;29100
+29;Zone de Plougastel-Daoulas;Pourtour rade de Brest, Pénéplaine bretonne nord;Pourtour rade de Brest, pénéplaine bretonne Nord;Zone de Plougastel-Daoulas;pra197;ra111;ram111;29101
+29;Zone légumière de la pénéplaine sud;Pénéplaine bretonne sud;Pénéplaine bretonne Sud;Zone légumière de la pénéplaine sud;pra198;ra112;ram112;29103
+30;Bas-Vivarais;Cévennes et Causses;Cévennes et Causses;Bas-Vivarais;pra199;ra113;ram113;30422
+30;Causse noir;Cévennes et Causses;Cévennes et Causses;Causse noir;pra200;ra113;ram113;30411
+30;Causses du Larzac;Cévennes et Causses;Cévennes et Causses;Causses du Larzac;pra201;ra113;ram113;30414
+30;Cévennes;Cévennes et Causses;Cévennes et Causses;Cévennes;pra202;ra113;ram113;30410
+30;Garrigues;Soubergues et Garrigues;Soubergues et Garrigues;Garrigues;pra203;ra114;ram114;30416
+30;Plaine viticole;Plaine viticole;Plaine viticole;Plaine viticole;pra204;ra115;ram115;30471
+30;Soubergues;Soubergues et Garrigues;Soubergues et Garrigues;Soubergues;pra205;ra114;ram114;30415
+30;Vallée du Rhône;Vallée du Rhône;Vallée du Rhône;Vallée du Rhône;pra206;ra116;ram116;30465
+31;Coteaux de Gascogne;Coteaux de Gascogne, Volvestre;Coteaux de Gascogne, Volvestre;Coteaux de Gascogne;pra207;ra117;ram117;31389
+31;Coteaux du Gers;Coteaux du Gers;Coteaux du Gers;Coteaux du Gers;pra208;ra118;ram118;31385
+31;La Rivière;La Rivière, Pyrénées centrales;La Rivière, Pyrénées centrales;La Rivière;pra209;ra119;ram119;31393
+31;Lauragais;Lauragais;Lauragais;Lauragais;pra210;ra120;ram120;31391
+31;Les Vallées;Les Vallées;Les Vallées;Les Vallées;pra211;ra121;ram121;31390
+31;Pyrénées centrales;La Rivière, Pyrénées centrales;La Rivière, Pyrénées centrales;Pyrénées centrales;pra212;ra119;ram119;31472
+31;Volvestre;Coteaux de Gascogne, Volvestre;Coteaux de Gascogne, Volvestre;Volvestre;pra213;ra117;ram117;31392
+32;Astarac;Astarac;Astarac;Astarac;pra214;ra122;ram122;32383
+32;Bas-Armagnac;Bas-Armagnac;Bas-Armagnac;Bas-Armagnac;pra215;ra123;ram123;32388
+32;Coteaux du Gers;Coteaux du Gers;Coteaux du Gers;Coteaux du Gers;pra216;ra124;ram124;32385
+32;Haut-Armagnac;Haut-Armagnac, Lomagne;Haut Armagnac, Lomagne;Haut-Armagnac;pra217;ra125;ram125;32147
+32;Lomagne;Haut-Armagnac, Lomagne;Haut Armagnac, Lomagne;Lomagne;pra218;ra125;ram125;32384
+32;Rivière basse;Vic-Bilh, Rivière basse;Vic Bilh, Rivière basse;Rivière basse;pra219;ra126;ram126;32387
+32;Ténarèze;Ténarèze;Ténarèze;Ténarèze;pra220;ra127;ram127;32149
+32;Vic-Bilh;Vic-Bilh, Rivière basse;Vic Bilh, Rivière basse;Vic-Bilh;pra221;ra126;ram126;32386
+33;Bas-Médoc;Bas-Médoc;Bas-Médoc;Bas-Médoc;pra222;ra128;ram128;33115
+33;Benauge;Entre-Deux-Mers;Entre-deux-Mers viticole;Benauge;pra223;ra129;ram129;33125
+33;Benauge boisée;Entre-Deux-Mers;Entre-deux-Mers viticole;Benauge boisée;pra224;ra129;ram129;33124
+33;Bergeracois;Entre-Deux-Mers;Entre-deux-Mers viticole;Bergeracois;pra225;ra129;ram129;33401
+33;Blayais;Médoc, Libournais, Graves;Médoc, Libournais, Graves;Blayais;pra226;ra130;ram130;33117
+33;Ceinture laitière et légumière de Bordeaux;Entre-Deux-Mers;Entre-deux-Mers viticole;Ceinture laitière et légumière de Bordeaux;pra227;ra129;ram129;33126
+33;Côtes du Bordelais;Entre-Deux-Mers;Entre-deux-Mers viticole;Côtes du Bordelais;pra228;ra129;ram129;33128
+33;Double périgourdine;Blayais et Double;Blayais et Double;Double périgourdine;pra229;ra131;ram131;33405
+33;Entre-Deux-Mers viticole;Entre-Deux-Mers;Entre-deux-Mers viticole;Entre-Deux-Mers viticole;pra230;ra129;ram129;33121
+33;Grandes Landes;Forêt et landes girondines;Forêt et landes girondines;Grandes Landes;pra231;ra132;ram132;33378
+33;Graves;Médoc, Libournais, Graves;Médoc, Libournais, Graves;Graves;pra232;ra130;ram130;33129
+33;Ilot de polyculture de Baron;Entre-Deux-Mers;Entre-deux-Mers viticole;Ilot de polyculture de Baron;pra233;ra129;ram129;33123
+33;Ilot de polyculture de Civrac;Médoc, Libournais, Graves;Médoc, Libournais, Graves;Ilot de polyculture de Civrac;pra234;ra130;ram130;33116
+33;Ilot de polyculture de Pujols;Entre-Deux-Mers;Entre-deux-Mers viticole;Ilot de polyculture de Pujols;pra235;ra129;ram129;33127
+33;Landais;Médoc, Libournais, Graves;Médoc, Libournais, Graves;Landais;pra236;ra130;ram130;33406
+33;Landes du Médoc;Forêt et landes girondines;Forêt et landes girondines;Landes du Médoc;pra237;ra132;ram132;33137
+33;Libournais;Médoc, Libournais, Graves;Médoc, Libournais, Graves;Libournais;pra238;ra130;ram130;33118
+33;Médoc;Médoc, Libournais, Graves;Médoc, Libournais, Graves;Médoc;pra239;ra130;ram130;33114
+33;Ouest Entre-Deux-Mers;Entre-Deux-Mers;Entre-deux-Mers viticole;Ouest Entre-Deux-Mers;pra240;ra129;ram129;33122
+33;Pays de Duras;Entre-Deux-Mers;Entre-deux-Mers viticole;Pays de Duras;pra241;ra129;ram129;33402
+33;Petites landes de Villandraut;Forêt et landes girondines;Forêt et landes girondines;Petites landes de Villandraut;pra242;ra132;ram132;33135
+33;Petites Landes du Bazadais;Bazadais;Bazadais;Petites Landes du Bazadais;pra243;ra133;ram133;33136
+33;Région de polyculture de Saint-Ciers;Blayais et Double;Blayais et Double;Région de polyculture de Saint-Ciers;pra244;ra131;ram131;33120
+33;Saintonge boisée;Blayais et Double;Blayais et Double;Saintonge boisée;pra245;ra131;ram131;33376
+33;Vallée de la Garonne;Bazadais;Bazadais;Vallée de la Garonne;pra246;ra133;ram133;33119
+33;Vallée de l'Isle;Médoc, Libournais, Graves;Médoc, Libournais, Graves;Vallée de l'Isle;pra247;ra130;ram130;33400
+34;Causses du Larzac;Sommail, Espinouze, Larzac;Sommail, Espinouse, Larzac;Causses du Larzac;pra248;ra134;ram134;34414
+34;Garrigues;Garrigues;Garrigues;Garrigues;pra249;ra135;ram135;34416
+34;Minervois;Minervois;Minervois;Minervois;pra250;ra136;ram136;34470
+34;Plaine viticole;Littoral languedocien, Plaine viticole;Littoral languedocien, plaine viticole;Plaine viticole;pra251;ra137;ram137;34471
+34;Plateaux du Sommail et de l'Espinouze;Sommail, Espinouze, Larzac;Sommail, Espinouse, Larzac;Plateaux du Sommail et de l'Espinouze;pra252;ra134;ram134;34412
+34;Soubergues;Soubergues;Soubergues;Soubergues;pra253;ra138;ram138;34415
+35;Bretagne centrale;Bretagne centrale;Bretagne centrale;Bretagne centrale;pra254;ra139;ram139;35359
+35;Marais de Dol;Polders et Marais nord;Polders et marais Nord;Marais de Dol;pra255;ra140;ram140;35099
+35;Pays de Redon;Pays de Redon;Pays de Redon;Pays de Redon;pra256;ra141;ram141;35363
+35;Polders du Mont-Saint-Michel;Polders et Marais nord;Polders et marais Nord;Polders du Mont-Saint-Michel;pra257;ra140;ram140;35098
+35;Région centrale;Région centrale;Région centrale;Région centrale;pra258;ra142;ram142;35358
+35;Région de Fougères;Région de Fougères;Région de Fougères;Région de Fougères;pra259;ra143;ram143;35097
+35;Région de Saint-Malo;Région de Saint-Malo;Région de Saint-Malo;Région de Saint-Malo;pra260;ra144;ram144;35357
+36;Boischaut du Nord;Boischaut du Nord;Boischaut du Nord;Boischaut du Nord;pra261;ra145;ram145;36435
+36;Boischaut du Sud;Boischaut du Sud;Boischaut du Sud;Boischaut du Sud;pra262;ra146;ram146;36436
+36;Brenne, Petite Brenne;Brenne, Petite Brenne;Brenne-Petite Brenne;Brenne-Petite Brenne;pra263;ra147;ram147;36438
+36;Champagne berrichonne;Champagne berrichonne;Champagne berrichonne;Champagne berrichonne;pra264;ra148;ram148;36434
+37;Bassin de Savigné;Bassin de Savigné, Gâtine tourangelle;Bassin de Savigne, Gâtine tourangelle;Bassin de Savigné;pra265;ra149;ram149;37074
+37;Champeigne;Champeigne, Plateau de Mettray;Champeigne, plateau de Mettray;Champeigne;pra266;ra150;ram150;37070
+37;Forêt d'Amboise;Val de Loire, Amboise, Région viticole de l’est de Tours;Val de Loire, Amboise, région viticole à l'est de Tours;Forêt d'Amboise;pra267;ra151;ram151;37072
+37;Gâtine de Loches et de Montrésor;Gâtine de Loches et de Montrésor;Gâtine de Loches et de Montrésor;Gâtine de Loches et de Montrésor;pra268;ra152;ram152;37435
+37;Gâtine tourangelle;Bassin de Savigné, Gâtine tourangelle;Bassin de Savigne, Gâtine tourangelle;Gâtine tourangelle;pra269;ra149;ram149;37346
+37;Plateau de Mettray;Champeigne, Plateau de Mettray;Champeigne, plateau de Mettray;Plateau de Mettray;pra270;ra150;ram150;37073
+37;Région de Sainte-Maure;Région de Sainte-Maure;Région de Sainte-Maure;Région de Sainte-Maure;pra271;ra153;ram153;37069
+37;Région viticole de l’est de Tours;Val de Loire, Amboise, Région viticole de l’est de Tours;Val de Loire, Amboise, région viticole à l'est de Tours;Région viticole de l’est de Tours;pra272;ra151;ram151;37071
+37;Richelais;Richelais;Richelais;Richelais;pra273;ra154;ram154;37348
+37;Val de Loire;Val de Loire, Amboise, Région viticole de l’est de Tours;Val de Loire, Amboise, région viticole à l'est de Tours;Val de Loire;pra274;ra151;ram151;37344
+38;Bas-Dauphiné;Bas-Dauphiné;Bas Dauphiné;Bas-Dauphiné;pra275;ra155;ram155;38199
+38;Préalpes;Préalpes, Région haute-alpine;Préalpes, région haute-alpine;Préalpes;pra276;ra156;ram156;38453
+38;Région haute-alpine;Préalpes, Région haute-alpine;Préalpes, région haute-alpine;Région haute-alpine;pra277;ra156;ram156;38457
+38;Vallée du Grésivaudan;Vallée du Grésivaudan, Vallée du Rhône;Vallée du Grésivaudan, Vallée du Rhône;Vallée du Grésivaudan;pra278;ra157;ram157;38217
+38;Vallée du Rhône;Vallée du Grésivaudan, Vallée du Rhône;Vallée du Grésivaudan, Vallée du Rhône;Vallée du Rhône;pra279;ra157;ram157;38465
+39;Bresse;Bresse;Bresse;Bresse;pra280;ra158;ram158;39446
+39;Combe d'Ain;Nord Jura;Nord Jura;Combe d'Ain;pra281;ra159;ram159;39209
+39;Deuxième plateau;Deuxième plateau;Deuxieme plateau;Deuxième plateau;pra282;ra160;ram160;39452
+39;Finage;Nord Jura;Nord Jura;Finage;pra283;ra159;ram159;39206
+39;Haut-Jura;Haut-Jura;Haut Jura;Haut-Jura;pra284;ra161;ram161;39449
+39;Petite montagne;Sud Jura;Sud Jura;Petite montagne;pra285;ra162;ram162;39451
+39;Plaine doloise;Nord Jura;Nord Jura;Plaine doloise;pra286;ra159;ram159;39447
+39;Plateau inférieur du Jura;Nord Jura;Nord Jura;Plateau inférieur du Jura;pra287;ra159;ram159;39212
+39;Val d'Amour et Forêt de Chaux;Nord Jura;Nord Jura;Val d'Amour et Forêt de Chaux;pra288;ra159;ram159;39203
+39;Vignoble du Jura;Vignoble du Jura;Vignoble du Jura;Vignoble du Jura;pra289;ra163;ram163;39207
+40;Bas-Armagnac;Marsan et Armagnac;Marsan et Armagnac;Bas-Armagnac;pra290;ra164;ram164;40388
+40;Chalosse;Chalosse et Gaves;Chalosse et Gaves;Chalosse;pra291;ra165;ram165;40382
+40;Grandes Landes;Marensin et forêt landaise;Marensin et forêt landaise;Grandes Landes;pra292;ra166;ram166;40378
+40;Marenne;Chalosse et Gaves;Chalosse et Gaves;Marenne;pra293;ra165;ram165;40132
+40;Marensin;Marensin et forêt landaise;Marensin et forêt landaise;Marensin;pra294;ra166;ram166;40131
+40;Marsan;Marsan et Armagnac;Marsan et Armagnac;Marsan;pra295;ra164;ram164;40133
+40;Pays de Born;Marensin et forêt landaise;Marensin et forêt landaise;Pays de Born;pra296;ra166;ram166;40130
+40;Pays de Gosse;Chalosse et Gaves;Chalosse et Gaves;Pays de Gosse;pra297;ra165;ram165;40145
+40;Petites Landes de Roquefort;Marensin et forêt landaise;Marensin et forêt landaise;Petites Landes de Roquefort;pra298;ra166;ram166;40134
+40;Seignanx;Chalosse et Gaves;Chalosse et Gaves;Seignanx;pra299;ra165;ram165;40144
+40;Tursan;Chalosse et Gaves;Chalosse et Gaves;Tursan;pra300;ra165;ram165;40387
+40;Vallée du Gave de Pau;Chalosse et Gaves;Chalosse et Gaves;Vallée du Gave de Pau;pra301;ra165;ram165;40379
+40;Vallée du Gave d'Oloron;Chalosse et Gaves;Chalosse et Gaves;Vallée du Gave d'Oloron;pra302;ra165;ram165;40380
+41;Beauce;Beauce;Beauce;Beauce;pra303;ra167;ram167;41341
+41;Champagne berrichonne;Grande Sologne, Champagne berrichonne;Grande Sologne, Champagne berrichonne;Champagne berrichonne;pra304;ra168;ram168;41434
+41;Gâtine tourangelle;Perche, Gâtine, Vallée du Loir;Perche, Gâtine, vallée du Loir;Gâtine tourangelle;pra305;ra169;ram169;41346
+41;Grande Sologne;Grande Sologne, Champagne berrichonne;Grande Sologne, Champagne berrichonne;Grande Sologne;pra306;ra168;ram168;41343
+41;Perche;Perche, Gâtine, Vallée du Loir;Perche, Gâtine, vallée du Loir;Perche;pra307;ra169;ram169;41351
+41;Perche vendômois;Perche, Gâtine, Vallée du Loir;Perche, Gâtine, vallée du Loir;Perche vendômois;pra308;ra169;ram169;41075
+41;Plateaux bocagers de Touraine méridionale;Plateaux bocagers de Touraine méridionale;Plateaux bocagers Touraine méridionale;Plateaux bocagers de Touraine méridionale;pra309;ra170;ram170;41435
+41;Sologne viticole;Sologne viticole, Vallée de la Loire;Sologne viticole, vallée de la Loire;Sologne viticole;pra310;ra171;ram171;41065
+41;Vallée et coteaux de la Loire;Sologne viticole, Vallée de la Loire;Sologne viticole, vallée de la Loire;Vallée et coteaux de la Loire;pra311;ra171;ram171;41068
+41;Vallée et coteaux du Loir;Perche, Gâtine, Vallée du Loir;Perche, Gâtine, vallée du Loir;Vallée et coteaux du Loir;pra312;ra169;ram169;41350
+42;Côte roannaise;Plaine du Forez et Roannais;Plaine du Forez et Roannais;Côte roannaise;pra313;ra172;ram172;42191
+42;Monts de la Madeleine;Monts du Forez, Madeleine, Pilât;Monts du Forez, Madeleine, Pilat;Monts de la Madeleine;pra314;ra173;ram173;42192
+42;Monts du Forez;Monts du Forez, Madeleine, Pilât;Monts du Forez, Madeleine, Pilat;Monts du Forez;pra315;ra173;ram173;42425
+42;Monts du Jarez et bassin houiller stéphanois;Monts du Lyonnais et du Jarez;Monts du Lyonnais et du Jarez;Monts du Jarez et bassin houiller stéphanois;pra316;ra174;ram174;42168
+42;Monts du Lyonnais;Monts du Lyonnais et du Jarez;Monts du Lyonnais et du Jarez;Monts du Lyonnais;pra317;ra174;ram174;42445
+42;Monts du Pilat;Monts du Forez, Madeleine, Pilât;Monts du Forez, Madeleine, Pilat;Monts du Pilat;pra318;ra173;ram173;42170
+42;Plaine du Forez;Plaine du Forez et Roannais;Plaine du Forez et Roannais;Plaine du Forez;pra319;ra172;ram172;42193
+42;Plaine roannaise;Plaine du Forez et Roannais;Plaine du Forez et Roannais;Plaine roannaise;pra320;ra172;ram172;42190
+42;Plateau de Neulise;Plaine du Forez et Roannais;Plaine du Forez et Roannais;Plateau de Neulise;pra321;ra172;ram172;42189
+42;Vallée du Rhône;Monts du Forez, Madeleine, Pilât;Monts du Forez, Madeleine, Pilat;Vallée du Rhône;pra322;ra173;ram173;42465
+43;Bassin du Puy;Bassin du Puy, Velay basaltique, Mézenc-Meygal;Le Pyv en basaltique, Mézenc-Meygal;Bassin du Puy;pra323;ra175;ram175;43172
+43;Brivadois;Brivadois, Cézallier, Margeride, Limagne;Brivadois, Cézallier, Margeride, Limagne;Brivadois;pra324;ra176;ram176;43177
+43;Cézallier;Brivadois, Cézallier, Margeride, Limagne;Brivadois, Cézallier, Margeride, Limagne;Cézallier;pra325;ra176;ram176;43417
+43;Limagne;Brivadois, Cézallier, Margeride, Limagne;Brivadois, Cézallier, Margeride, Limagne;Limagne;pra326;ra176;ram176;43427
+43;Margeride;Brivadois, Cézallier, Margeride, Limagne;Brivadois, Cézallier, Margeride, Limagne;Margeride;pra327;ra176;ram176;43418
+43;Massif du Mézenc-Meygal;Bassin du Puy, Velay basaltique, Mézenc-Meygal;Le Pyv en basaltique, Mézenc-Meygal;Massif du Mézenc-Meygal;pra328;ra175;ram175;43423
+43;Monts du Forez;Monts du Forez;Monts du Forez;Monts du Forez;pra329;ra177;ram177;43425
+43;Velay basaltique;Bassin du Puy, Velay basaltique, Mézenc-Meygal;Le Pyv en basaltique, Mézenc-Meygal;Velay basaltique;pra330;ra175;ram175;43424
+44;Bas-bocage;Marais breton, Bas-bocage;Marais breton et bas bocage;Bas-bocage;pra331;ra178;ram178;44368
+44;Bocage angevin;Bocage angevin;Bocage angevin;Bocage angevin;pra332;ra179;ram179;44356
+44;Estuaire de la Loire;Estuaire de la Loire, Région nantaise;Estuaire de la Loire, région nantaise;Estuaire de la Loire;pra333;ra180;ram180;44106
+44;Marais breton;Marais breton, Bas-bocage;Marais breton et bas bocage;Marais breton;pra334;ra178;ram178;44365
+44;Pays de Châteaubriant;Pays de Chàteaubriant;Pays de Châteaubriant;Pays de Châteaubriant;pra335;ra181;ram181;44104
+44;Pays de Redon;Nord-ouest Loire-Atlantique;Nord-Ouest Loire-Atlantique;Pays de Redon;pra336;ra182;ram182;44363
+44;Pays de Retz;Pays de Retz;Pays de Retz;Pays de Retz;pra337;ra183;ram183;44108
+44;Pays de Sèvre-et-Maine;Pays de Sèvre-et-Maine;Pays de Sèvre-et-Maine;Pays de Sèvre-et-Maine;pra338;ra184;ram184;44373
+44;Plateaux boisés nantais;Nord-ouest Loire-Atlantique;Nord-Ouest Loire-Atlantique;Plateaux boisés nantais;pra339;ra182;ram182;44105
+44;Presqu'île guérandaise et Grande Brière;Nord-ouest Loire-Atlantique;Nord-Ouest Loire-Atlantique;Presqu'île guérandaise et Grande Brière;pra340;ra182;ram182;44364
+44;Région urbaine et maraîchère de Nantes;Nord-ouest Loire-Atlantique;Nord-Ouest Loire-Atlantique;Région urbaine et maraîchère de Nantes;pra341;ra182;ram182;44107
+45;Beauce de Patay;Val de Loire, Beauce de Patay;Val de Loire, Beauce de Patay;Beauce de Patay;pra342;ra185;ram185;45341
+45;Beauce riche;Beauce riche;Beauce riche;Beauce riche;pra343;ra186;ram186;45342
+45;Berry;Puisaye, Sologne, Berry;Puisaye, Sologne, Berry;Berry;pra344;ra187;ram187;45439
+45;Gâtinais pauvre;Gâtinais pauvre;Gâtinais pauvre (Est);Gâtinais pauvre;pra345;ra188;ram188;45338
+45;Gâtinais riche;Gâtinais riche;Gâtinais riche (Ouest);Gâtinais riche;pra346;ra189;ram189;45339
+45;Orléanais;Orléanais;Orléanais;Orléanais;pra347;ra190;ram190;45063
+45;Puisaye;Puisaye, Sologne, Berry;Puisaye, Sologne, Berry;Puisaye;pra348;ra187;ram187;45340
+45;Sologne;Puisaye, Sologne, Berry;Puisaye, Sologne, Berry;Sologne;pra349;ra187;ram187;45343
+45;Val de Loire;Val de Loire, Beauce de Patay;Val de Loire, Beauce de Patay;Val de Loire;pra350;ra185;ram185;45067
+46;Bourianne;Bourianne;Bourianne;Bourianne;pra351;ra191;ram191;46159
+46;Causses;Quercy blanc, Causses;Quercy blanc, Causses;Causses;pra352;ra192;ram192;46394
+46;Limargue;Limargue et Ségala;Limargue, Ségala;Limargue;pra353;ra193;ram193;46408
+46;Quercy blanc;Quercy blanc, Causses;Quercy blanc, Causses;Quercy blanc;pra354;ra192;ram192;46396
+46;Ségala;Limargue et Ségala;Limargue, Ségala;Ségala;pra355;ra193;ram193;46409
+46;Vallée de la Dordogne;Vallée de la Dordogne;Vallée de la Dordogne;Vallée de la Dordogne;pra356;ra191;ram191;46160
+46;Vallée du Lot;Vallée du Lot;Vallée du Lot;Vallée du Lot;pra357;ra191;ram191;46407
+47;Bergeracois;Coteaux nord, Duras, Périgord;Coteaux Nord, Duras, Périgord;Bergeracois;pra358;ra194;ram194;47401
+47;Causses;Pays de Serres, Causses;Pays de Serres, Causses;Causses;pra359;ra195;ram195;47394
+47;Coteaux Bordure Landes;Coteaux Bordure Landes, Grandes Landes;Coteaux bordure Landes, Grandes Landes;Coteaux Bordure Landes;pra360;ra196;ram196;47157
+47;Coteaux nord du Lot-et-Garonne;Coteaux nord, Duras, Périgord;Coteaux Nord, Duras, Périgord;Coteaux nord du Lot-et-Garonne;pra361;ra194;ram194;47156
+47;Coteaux sud de Garonne;Coteaux sud de Garonne;Coteaux Sud Garonne;Coteaux sud de Garonne;pra362;ra197;ram197;47398
+47;Duras;Coteaux nord, Duras, Périgord;Coteaux Nord, Duras, Périgord;Duras;pra363;ra194;ram194;47402
+47;Grandes Landes;Coteaux Bordure Landes, Grandes Landes;Coteaux bordure Landes, Grandes Landes;Grandes Landes;pra364;ra196;ram196;47378
+47;Pays de Serres;Pays de Serres, Causses;Pays de Serres, Causses;Pays de Serres;pra365;ra195;ram195;47399
+47;Périgord noir;Coteaux nord, Duras, Périgord;Coteaux Nord, Duras, Périgord;Périgord noir;pra366;ra194;ram194;47404
+47;Plaines de la Garonne et du Lot;Plaines de la Garonne et du Lot;Plaines de la Garonne et du Lot;Plaines de la Garonne et du Lot;pra367;ra198;ram198;47400
+48;Aubrac;Margeride, Aubrac;Margeride, Aubrac;Aubrac;pra368;ra199;ram199;48419
+48;Causses;Cévennes, Causses;Cévennes, Causses;Causses;pra369;ra200;ram200;48411
+48;Cévennes;Cévennes, Causses;Cévennes, Causses;Cévennes;pra370;ra200;ram200;48410
+48;Margeride;Margeride, Aubrac;Margeride, Aubrac;Margeride;pra371;ra199;ram199;48418
+49;Beaugeois;Beaugeois;Beaugeois;Beaugeois;pra372;ra201;ram201;49345
+49;Bocage angevin;Bocage angevin;Bocage angevin;Bocage angevin;pra373;ra202;ram202;49356
+49;Le Lavon;Le Lavon;Le Lavon;Choletais;pra374;ra203;ram203;49373
+49;Les Mauges;Les Mauges;Les Mauges;Choletais;pra375;ra204;ram204;49373
+49;Saumurois;Saumurois;Saumurois;Saumurois;pra376;ra205;ram205;49347
+49;Vallée de la Loire;Vallée de la Loire;Vallée de la Loire;Vallée de la Loire;pra377;ra206;ram206;49344
+50;Avranchin;Avranchin;Avranchin;Avranchin;pra378;ra207;ram207;50087
+50;Bocage de Coutances et de Saint-Lô;Bocage de Coutances et de Saint-Lô;Bocage de Coutance et de Saint-Lô;Bocage de Coutances et de Saint-Lô;pra379;ra208;ram208;50086
+50;Bocage de Valognes;La Hague, Bocage de Valognes;La Hague, bocage de Valognes;Bocage de Valognes;pra380;ra209;ram209;50082
+50;Cotentin;Cotentin;Cotentin;Cotentin;pra381;ra210;ram210;50084
+50;La Hague;La Hague, Bocage de Valognes;La Hague, bocage de Valognes;La Hague;pra382;ra209;ram209;50081
+50;Le Mortainais;Le Mortainais;Le Mortainais;Le Mortainais;pra383;ra211;ram211;50354
+50;Val de Saire;Val de Saire;Val de Saire;Val de Saire;pra384;ra212;ram212;50083
+51;Argonne;Champagne humide, Argonne, Perthois;Champagne humide, Argonne, Perthois;Argonne;pra385;ra213;ram213;51315
+51;Brie champenoise;Brie champenoise;Brie champenoise;Brie champenoise;pra386;ra214;ram214;51335
+51;Champagne crayeuse;Champagne crayeuse;Champagne crayeuse;Champagne crayeuse;pra387;ra215;ram215;51317
+51;Champagne humide;Champagne humide, Argonne, Perthois;Champagne humide, Argonne, Perthois;Champagne humide;pra388;ra213;ram213;51318
+51;Pays rémois;Pays rémois;Pays rémois;Pays rémois;pra389;ra216;ram216;51018
+51;Perthois;Champagne humide, Argonne, Perthois;Champagne humide, Argonne, Perthois;Perthois;pra390;ra213;ram213;51321
+51;Tardenois;Tardenois;Tardenois;Tardenois;pra391;ra217;ram217;51336
+51;Vallée de la Marne;Vallée de la Marne;Vallée de la Marne;Vallée de la Marne;pra392;ra218;ram218;51016
+51;Vignoble;Vignoble;Vignoble;Vignoble;pra393;ra219;ram219;51017
+52;Barrois;Nord-est haut-marnais;Nord-Est, Haut Marnais;Barrois;pra394;ra220;ram220;52314
+52;Barrois Vallée;Nord-est haut-marnais;Nord-Est, Haut Marnais;Barrois Vallée;pra395;ra220;ram220;52322
+52;Bassigny;Bassigny, Vingeanne;Bassigny, Vingeanne;Bassigny;pra396;ra221;ram221;52310
+52;Champagne humide;Nord-est haut-marnais;Nord-Est, Haut Marnais;Champagne humide;pra397;ra220;ram220;52318
+52;Perthois;Nord-est haut-marnais;Nord-Est, Haut Marnais;Perthois;pra398;ra220;ram220;52321
+52;Plateau Langrois Amance;Plateau Langrois;Plateau Langrois;Plateau Langrois Amance;pra399;ra222;ram222;52009
+52;Plateau Langrois Apance;Plateau Langrois;Plateau Langrois;Plateau Langrois Apance;pra400;ra222;ram222;52008
+52;Plateau Langrois montagne;Plateau Langrois;Plateau Langrois;Plateau Langrois montagne;pra401;ra222;ram222;52311
+52;Vallage;Nord-est haut-marnais;Nord-Est, Haut Marnais;Vallage;pra402;ra220;ram220;52012
+52;Vingeanne;Bassigny, Vingeanne;Bassigny, Vingeanne;Vingeanne;pra403;ra221;ram221;52312
+53;Bocage angevin;Bocage angevin;Bocage Angevin;Bocage Angevin;pra404;ra223;ram223;53356
+53;Région d'embouche de l’Erve;Région d'embouche de l’Erve;Région d'embouche de l'Erve;Région d'embouche de l'Erve;pra405;ra224;ram224;53095
+53;Région des polycultures de Laval;Région des polycultures de Laval;Région de polyculture de Laval;Région de polyculture de Laval;pra406;ra225;ram225;53096
+53;Zone d’élevage;Zone d’élevage;Zone d'élevage;Zone d'élevage;pra407;ra226;ram226;53357
+54;Côtes de Meuse;Plateau lorrain, La Haye, Montagne vosgienne, Côtes de Meuse;Plateau lorrain, La Haye, montagne vosgienne, côtes de Meuse;Côtes de Meuse;pra408;ra227;ram227;54313
+54;La Haye;Plateau lorrain, La Haye, Montagne vosgienne, Côtes de Meuse;Plateau lorrain, La Haye, montagne vosgienne, côtes de Meuse;La Haye;pra409;ra227;ram227;54305
+54;Montagne vosgienne;Plateau lorrain, La Haye, Montagne vosgienne, Côtes de Meuse;Plateau lorrain, La Haye, montagne vosgienne, côtes de Meuse;Montagne vosgienne;pra410;ra227;ram227;54307
+54;Pays haut-lorrain;Pays haut-lorrain, Woëvre;Pays haut lorrain, Woëvre;Pays haut-lorrain;pra411;ra228;ram228;54308
+54;Plateau lorrain;Plateau lorrain, La Haye, Montagne vosgienne, Côtes de Meuse;Plateau lorrain, La Haye, montagne vosgienne, côtes de Meuse;Plateau lorrain sud;pra412;ra227;ram227;54306
+54;Woëvre;Pays haut-lorrain, Woëvre;Pays haut lorrain, Woëvre;Woëvre;pra413;ra228;ram228;54316
+55;Argonne;Argonne;Argonne;Argonne;pra414;ra229;ram229;55315
+55;Barrois;Barrois;Barrois;Barrois;pra415;ra230;ram230;55314
+55;Pays de Montmédy;Woëvre, Pays de Montmédy;Woëvre, pays de Montmédy;Pays de Montmédy;pra416;ra231;ram231;55308
+55;Woëvre;Woëvre, Pays de Montmédy;Woëvre, pays de Montmédy;Woëvre;pra417;ra231;ram231;55316
+56;Bretagne centrale;Bretagne centrale;Bretagne centrale;Bretagne centrale;pra418;ra232;ram232;56359
+56;Littoral breton sud;Littoral breton sud;Littoral breton Sud;Littoral breton Sud;pra419;ra233;ram233;56364
+56;Région centrale;Région centrale;Région centrale;Région centrale;pra420;ra234;ram234;56363
+56;Région nord;Région nord;Région Nord;Région Nord;pra421;ra235;ram235;56362
+57;Montagne vosgienne;Warndt, Montagne vosgienne, Plateau lorrain nord;Warndt, montagne vosgienne, plateau lorrain Nord;Montagne vosgienne;pra422;ra236;ram236;57307
+57;Pays haut-lorrain;Vallée de la Moselle, Plateau lorrain sud, Pays haut-lorrain;Vallée de la Moselle, plateau lorrain Sud, pays haut lorrain;Pays haut-lorrain;pra423;ra237;ram237;57308
+57;Plateau lorrain nord;Warndt, Montagne vosgienne, Plateau lorrain nord;Warndt, montagne vosgienne, plateau lorrain Nord;Plateau lorrain nord;pra424;ra236;ram236;57473
+57;Plateau lorrain sud;Vallée de la Moselle, Plateau lorrain sud, Pays haut-lorrain;Vallée de la Moselle, plateau lorrain Sud, pays haut lorrain;Plateau lorrain sud;pra425;ra237;ram237;57306
+57;Vallée de la Moselle;Vallée de la Moselle, Plateau lorrain sud, Pays haut-lorrain;Vallée de la Moselle, plateau lorrain Sud, pays haut lorrain;Vallée de la Moselle;pra426;ra237;ram237;57004
+57;Warndt;Warndt, Montagne vosgienne, Plateau lorrain nord;Warndt, montagne vosgienne, plateau lorrain Nord;Warndt;pra427;ra236;ram236;57003
+58;Bourgogne nivernaise;Bourgogne nivernaise, Puisaye;Bourgogne nivernaise, Puisaye;Bourgogne nivernaise;pra428;ra238;ram238;58185
+58;Entre Loire et Allier;Entre Loire et Allier, Sologne bourbonnaise;Entre Loire et Allier, Sologne bourbonnaise;Entre Loire et Allier;pra429;ra239;ram239;58180
+58;Morvan;Morvan;Morvan;Morvan;pra430;ra240;ram240;58443
+58;Nivernais central;Nivernais central;Nivernais central;Nivernais central;pra431;ra241;ram241;58188
+58;Puisaye;Bourgogne nivernaise, Puisaye;Bourgogne nivernaise, Puisaye;Puisaye;pra432;ra238;ram238;58340
+58;Sologne bourbonnaise;Entre Loire et Allier, Sologne bourbonnaise;Entre Loire et Allier, Sologne bourbonnaise;Sologne bourbonnaise;pra433;ra239;ram239;58429
+59;Cambrésis;Cambrésis;Cambraisis;Cambrésis;pra434;ra242;ram242;59326
+59;Flandre intérieure;Flandre intérieure, Flandre maritime;Flandre intérieure, Flandre maritime;Flandre intérieure;pra435;ra243;ram243;59025
+59;Flandre maritime;Flandre intérieure, Flandre maritime;Flandre intérieure, Flandre maritime;Flandre maritime;pra436;ra243;ram243;59325
+59;Hainaut;Hainaut;Hainaut;Hainaut;pra437;ra244;ram244;59033
+59;Pévèle;Région de Lille, Pévèle;Région de Lille, Pévèle;Pévèle;pra438;ra245;ram245;59027
+59;Plaine de la Lys;Plaine de la Lys;Plaine de la Lys;Plaine de la Lys;pra439;ra246;ram246;59324
+59;Plaine de la Scarpe;Plaine de la Scarpe;Plaine de la Scarpe;Plaine de la Scarpe;pra440;ra247;ram247;59028
+59;Région de Lille;Région de Lille, Pévèle;Région de Lille, Pévèle;Région de Lille;pra441;ra245;ram245;59026
+59;Thiérache;Thiérache;Thiérache;Thiérache;pra442;ra248;ram248;59323
+60;Clermontois;Vexin, Pays de Thelle, Clermontois;Vexin, pays de Thelle, Clermontois;Clermontois;pra443;ra249;ram249;60042
+60;Noyonnais;Noyonnais, Soissonnais;Noyonnais, Soissonnais;Noyonnais;pra444;ra250;ram250;60043
+60;Pays de Bray;Pays de Bray;Pays de Bray;Pays de Bray;pra445;ra251;ram251;60331
+60;Pays de Thelle;Vexin, Pays de Thelle, Clermontois;Vexin, pays de Thelle, Clermontois;Pays de Thelle;pra446;ra249;ram249;60041
+60;Plateau picard;Plateau picard;Plateau picard;Plateau picard;pra447;ra252;ram252;60327
+60;Soissonnais;Noyonnais, Soissonnais;Noyonnais, Soissonnais;Soissonnais;pra448;ra250;ram250;60328
+60;Valois et Multien;Valois et Multien;Valois et Multien;Valois et Multien;pra449;ra253;ram253;60329
+60;Vexin français;Vexin, Pays de Thelle, Clermontois;Vexin, pays de Thelle, Clermontois;Vexin français;pra450;ra249;ram249;60330
+61;Bocage ornais;Bocage ornais;Bocage Ornais;Bocage ornais;pra451;ra254;ram254;61354
+61;Le Merlerault;Pays d’Auge et Le Merlerault;Pays d'Auge, Merlerault;Le Merlerault;pra452;ra255;ram255;61088
+61;Pays d’Auge;Pays d’Auge et Le Merlerault;Pays d'Auge, Merlerault;Pays d’Auge;pra453;ra255;ram255;61353
+61;Pays d’Ouche;Pays d’Ouche;Pays d'Ouche;Pays d’Ouche;pra454;ra256;ram256;61352
+61;Perche ornais;Perche ornais;Perche Ornais;Perche ornais;pra455;ra257;ram257;61351
+61;Plaines d’Alençon et d’Argentan;Plaines d’Alençon et d’Argentan;Plaines d'Alençon et d'Argentan;Plaines d’Alençon et d’Argentan;pra456;ra258;ram258;61355
+62;Artois;Artois;Artois;Artois;pra457;ra259;ram259;62326
+62;Bas-champs picards;Pays de Montreuil, Bas-champs picards;Pays de Montreuil, bas champs picards;Bas-champs picards;pra458;ra260;ram260;62040
+62;Béthunois;Pays d'Aire, Plaine de la Lys, Béthunois;Pays d'Aire, plaine de la Lys, Béthunois;Béthunois;pra459;ra261;ram261;62031
+62;Boulonnais;Boulonnais;Boulonnais;Boulonnais;pra460;ra262;ram262;62029
+62;Collines guinoises;Wateringues, Collines guinoises;Wateringues, collines guinoises;Collines guinoises;pra461;ra263;ram263;62024
+62;Haut-pays d’Artois;Haut-pays d’Artois;Haut pays d'Artois;Haut-pays d’Artois;pra462;ra264;ram264;62030
+62;Pays d'Aire;Pays d'Aire, Plaine de la Lys, Béthunois;Pays d'Aire, plaine de la Lys, Béthunois;Pays d'Aire;pra463;ra261;ram261;62023
+62;Pays de Montreuil;Pays de Montreuil, Bas-champs picards;Pays de Montreuil, bas champs picards;Pays de Montreuil;pra464;ra260;ram260;62039
+62;Plaine de la Lys;Pays d'Aire, Plaine de la Lys, Béthunois;Pays d'Aire, plaine de la Lys, Béthunois;Plaine de la Lys;pra465;ra261;ram261;62324
+62;Ternois;Ternois;Ternois;Ternois;pra466;ra265;ram265;62032
+62;Wateringues;Wateringues, Collines guinoises;Wateringues, collines guinoises;Wateringues;pra467;ra263;ram263;62325
+63;Artense;Dômes et périphérie, Cézallier, Artense;Dômes et péripherie, Cézallier, Artense;Artense;pra468;ra266;ram266;63421
+63;Cézallier;Dômes et périphérie, Cézallier, Artense;Dômes et péripherie, Cézallier, Artense;Cézallier;pra469;ra266;ram266;63417
+63;Combraille;Combraille, Combraille bourbonnaise;Combraille, Combraille bourbonnaise;Combraille;pra470;ra267;ram267;63181
+63;Combraille bourbonnaise;Combraille, Combraille bourbonnaise;Combraille, Combraille bourbonnaise;Combraille bourbonnaise;pra471;ra267;ram267;63428
+63;Dômes;Dômes et périphérie, Cézallier, Artense;Dômes et péripherie, Cézallier, Artense;Dômes;pra472;ra266;ram266;63166
+63;Limagne agricole;Limagne agricole;Limagne agricole;Limagne agricole;pra473;ra268;ram268;63426
+63;Limagne viticole;Limagne viticole, Plaine de Lembron;Limagne viticole, plaine de Lembron;Limagne viticole;pra474;ra269;ram269;63176
+63;Livradois;Livradois, Ambert, Forez, Plaine de la Dore;Livradois, Ambert, Forez, plaine de la Dore;Livradois;pra475;ra270;ram270;63174
+63;Mont du Forez;Livradois, Ambert, Forez, Plaine de la Dore;Livradois, Ambert, Forez, plaine de la Dore;Mont du Forez;pra476;ra270;ram270;63425
+63;Périphérie des Dômes;Dômes et périphérie, Cézallier, Artense;Dômes et péripherie, Cézallier, Artense;Périphérie des Dômes;pra477;ra266;ram266;63165
+63;Plaine d'Ambert;Livradois, Ambert, Forez, Plaine de la Dore;Livradois, Ambert, Forez, plaine de la Dore;Plaine d'Ambert;pra478;ra270;ram270;63173
+63;Plaine de la Dore;Livradois, Ambert, Forez, Plaine de la Dore;Livradois, Ambert, Forez, plaine de la Dore;Plaine de la Dore;pra479;ra270;ram270;63175
+63;Plaine de Lembron;Limagne viticole, Plaine de Lembron;Limagne viticole, plaine de Lembron;Plaine de Lembron;pra480;ra269;ram269;63427
+64;Chalosse;Coteaux du Béarn;Coteaux du Béarn;Chalosse;pra481;ra271;ram271;64382
+64;Côte basque;Coteaux basques;Coteaux basques;Côte basque;pra482;ra272;ram272;64138
+64;Coteaux du Béarn;Coteaux du Béarn;Coteaux du Béarn;Coteaux du Béarn;pra483;ra271;ram271;64381
+64;Coteaux du Pays Basque;Coteaux basques;Coteaux basques;Coteaux du Pays Basque;pra484;ra272;ram272;64139
+64;Coteaux entre les Gaves;Vallées et coteaux des Gaves;Vallées et coteaux des Gaves;Coteaux entre les Gaves;pra485;ra273;ram273;64141
+64;Montagne basque;Montagnes;Montagnes;Montagne basque;pra486;ra274;ram274;64140
+64;Montagne du Béarn;Montagnes;Montagnes;Montagne du Béarn;pra487;ra274;ram274;64142
+64;Vallée de l'Adour;Coteaux basques;Coteaux basques;Vallée de l'Adour;pra488;ra272;ram272;64143
+64;Vallée du Gave de Pau;Vallées et coteaux des Gaves;Vallées et coteaux des Gaves;Vallée du Gave de Pau;pra489;ra273;ram273;64379
+64;Vallée du Gave d'Oloron;Vallées et coteaux des Gaves;Vallées et coteaux des Gaves;Vallée du Gave d'Oloron;pra490;ra273;ram273;64380
+64;Vic-Bilh;Coteaux du Béarn;Coteaux du Béarn;Vic-Bilh;pra491;ra271;ram271;64386
+65;Astarac;Haute-vallée de l'Adour et coteaux;Haute vallée de l'Adour et coteaux;Astarac;pra492;ra275;ram275;65383
+65;Coteaux de Bigorre;Montagne et coteaux de Biqorre;Montagne et coteaux de Bigorre;Coteaux de Bigorre;pra493;ra276;ram276;65148
+65;Coteaux de Gascogne;Haute-vallée de l'Adour et coteaux;Haute vallée de l'Adour et coteaux;Coteaux de Gascogne;pra494;ra275;ram275;65389
+65;Coteaux nord;Haute-vallée de l'Adour et coteaux;Haute vallée de l'Adour et coteaux;Coteaux nord;pra495;ra275;ram275;65381
+65;Haute-vallée de l'Adour;Haute-vallée de l'Adour et coteaux;Haute vallée de l'Adour et coteaux;Haute-vallée de l'Adour;pra496;ra275;ram275;65150
+65;Montagne de Bigorre;Montagne et coteaux de Biqorre;Montagne et coteaux de Bigorre;Montagne de Bigorre;pra497;ra276;ram276;65146
+65;Rivière basse;Haute-vallée de l'Adour et coteaux;Haute vallée de l'Adour et coteaux;Rivière basse;pra498;ra275;ram275;65387
+65;Vic-Bilh et Madiran;Haute-vallée de l'Adour et coteaux;Haute vallée de l'Adour et coteaux;Vic-Bilh et Madiran;pra499;ra275;ram275;65386
+66;Capcir;Conflent, Cerdagne, Capcir, Fenouillède;Conflent, Cerdagne, Capcir, Fenouillède;Capcir;pra500;ra277;ram277;66257
+66;Cerdagne;Conflent, Cerdagne, Capcir, Fenouillède;Conflent, Cerdagne, Capcir, Fenouillède;Cerdagne;pra501;ra277;ram277;66256
+66;Conflent;Conflent, Cerdagne, Capcir, Fenouillède;Conflent, Cerdagne, Capcir, Fenouillède;Conflent;pra502;ra277;ram277;66255
+66;Corbières du Roussillon;Corbières du Roussillon;Corbières du Roussillon;Corbières du Roussillon;pra503;ra278;ram278;66470
+66;Cru Banyuls;Plaine du Roussillon, Cru Banyuls;Plaine du Roussillon, cru Banyuls;Cru Banyuls;pra504;ra279;ram279;66254
+66;Fenouillède;Conflent, Cerdagne, Capcir, Fenouillède;Conflent, Cerdagne, Capcir, Fenouillède;Fenouillède;pra505;ra277;ram277;66472
+66;Plaine du Roussillon;Plaine du Roussillon, Cru Banyuls;Plaine du Roussillon, cru Banyuls;Plaine du Roussillon;pra506;ra279;ram279;66252
+66;Vallespir et Albères;Vallespir et Albères;Vallespir et Albères;Vallespir et Albères;pra507;ra280;ram280;66253
+67;Montagne vosgienne;Montagne vosgienne;Montagne vosgienne;Montagne vosgienne;pra508;ra281;ram281;67307
+67;Plaine du Rhin;Plaine du Rhin;Plaine du Rhin;Plaine du Rhin;pra509;ra282;ram282;67301
+67;Plateau lorrain nord;Plateau lorrain nord;Plateau lorrain nord;Plateau lorrain nord;pra510;ra283;ram283;67473
+67;Région sous-vosgienne;Région sous-vosgienne;Région sous-vosgienne;Région sous-vosgienne;pra511;ra284;ram284;67304
+67;Ried;Ried;Ried;Ried;pra512;ra285;ram285;67302
+68;Collines sous-vosgiennes;Collines sous-vosgiennes;Collines sous-vosgiennes;Collines sous-vosgiennes;pra513;ra286;ram286;68304
+68;Hardt;Hardt, Ochsenfeld, Ried;Hardt, Ochsenfeld, Ried, plaine du Rhin;Hardt;pra514;ra287;ram287;68001
+68;Jura;Jura;Jura;Jura;pra515;ra288;ram288;68450
+68;Montagne vosgienne;Montagne vosgienne;Montagne vosgienne;Montagne vosgienne;pra516;ra289;ram289;68307
+68;Ochsenfeld;Hardt, Ochsenfeld, Ried;Hardt, Ochsenfeld, Ried, plaine du Rhin;Ochsenfeld;pra517;ra287;ram287;68002
+68;Plaine du Rhin;Plaine du Rhin;Plaine du Rhin;Plaine du Rhin;pra518;ra290;ram290;68301
+68;Ried;Hardt, Ochsenfeld, Ried;Hardt, Ochsenfeld, Ried, plaine du Rhin;Ried;pra519;ra287;ram287;68302
+68;Sundgau;Sundgau;Sundgau;Sundgau;pra520;ra291;ram291;68303
+69;Bas-Dauphiné;Vallées et plaines nord et est de Lyon;Vallée et plaines Nord et Est de Lyon;Bas-Dauphiné;pra521;ra292;ram292;69199
+69;Beaujolais viticole;Beaujolais viticole;Beaujolais viticole;Beaujolais viticole;pra522;ra293;ram293;69444
+69;Monts du Lyonnais;Monts du Lyonnais;Monts du Lyonnais;Monts du Lyonnais;pra523;ra294;ram294;69445
+69;Plateaux du Lyonnais;Plateaux du Lyonnais;Plateaux du Lyonnais;Plateaux du Lyonnais;pra524;ra295;ram295;69194
+69;Vallée de la Saône;Vallées et plaines nord et est de Lyon;Vallée et plaines Nord et Est de Lyon;Vallée du Rhône;pra525;ra292;ram292;69195
+69;Vallée du Rhône;Vallées et plaines nord et est de Lyon;Vallée et plaines Nord et Est de Lyon;Vallée du Rhône;pra526;ra292;ram292;69465
+69;Zone de grande culture entre Saône et Beaujolais;Vallées et plaines nord et est de Lyon;Vallée et plaines Nord et Est de Lyon;Zone de grande culture entre Saône et Beaujolais;pra527;ra292;ram292;69197
+69;Zone fruitière et viticole du Lyonnais;Vallées et plaines nord et est de Lyon;Vallée et plaines Nord et Est de Lyon;Zone fruitière et viticole du Lyonnais;pra528;ra292;ram292;69200
+69;Zone maraîchère de Lyon;Vallées et plaines nord et est de Lyon;Vallée et plaines Nord et Est de Lyon;Zone maraîchère de Lyon;pra529;ra292;ram292;69196
+70;Hautes-Vosges;Région vosgienne et sous-vosgienne;Région vosgienne et sous-vosgienne;Hautes-Vosges;pra530;ra296;ram296;70307
+70;Plaine grayloise;Plaine grayloise;Plaine grayloise;Plaine grayloise;pra531;ra297;ram297;70205
+70;Plaines et basses vallées du Doubs et de l'Ognon;Vallée de l'Ognon et Trouée de Belfort;Vallée de l'Ognon et Trouée de Belfort;Plaines et basses vallées du Doubs et de l'Ognon;pra532;ra298;ram298;70447
+70;Région des plateaux;Région des plateaux;Région des plateaux;Région des plateaux;pra533;ra299;ram299;70007
+70;Région sous-vosgienne de Haute-Saône;Région vosgienne et sous-vosgienne;Région vosgienne et sous-vosgienne;Région sous-vosgienne de Haute-Saône;pra534;ra296;ram296;70005
+70;Région vosgienne de Haute-Saône;Région vosgienne et sous-vosgienne;Région vosgienne et sous-vosgienne;Région vosgienne de Haute-Saône;pra535;ra296;ram296;70006
+70;Trouée de Belfort;Vallée de l'Ognon et Trouée de Belfort;Vallée de l'Ognon et Trouée de Belfort;Trouée de Belfort;pra536;ra298;ram298;70448
+70;Vôge;Région vosgienne et sous-vosgienne;Région vosgienne et sous-vosgienne;Vôge;pra537;ra296;ram296;70309
+71;Autunois;Sologne bourbonnaise, Autunois, Morvan;Sologne bourbonnaise, Autunois, Morvan;Autunois;pra538;ra300;ram300;71442
+71;Bresse chalonnaise;Bresse chalonnaise;Bresse chalonnaise;Bresse chalonnaise;pra539;ra301;ram301;71202
+71;Bresse louhannaise;Bresse louhannaise;Bresse louhannaise;Bresse louhannaise;pra540;ra302;ram302;71446
+71;Brionnais;Charollais, Brionnais;Charollais, Brionnais;Brionnais;pra541;ra303;ram303;71183
+71;Chalonnais;Mâconnais, Chalonnais;Mâconnais, Chalonnais;Chalonnais;pra542;ra304;ram304;71440
+71;Charollais;Charollais, Brionnais;Charollais, Brionnais;Charollais;pra543;ra303;ram303;71187
+71;Clunysois;Clunysois, Côte chalonnaise;Clunysois, côte chalonnaise;Clunysois;pra544;ra305;ram305;71184
+71;Côte chalonnaise;Clunysois, Côte chalonnaise;Clunysois, côte chalonnaise;Côte chalonnaise;pra545;ra305;ram305;71441
+71;Mâconnais;Mâconnais, Chalonnais;Mâconnais, Chalonnais;Mâconnais;pra546;ra304;ram304;71444
+71;Morvan;Sologne bourbonnaise, Autunois, Morvan;Sologne bourbonnaise, Autunois, Morvan;Morvan;pra547;ra300;ram300;71443
+71;Sologne bourbonnaise;Sologne bourbonnaise, Autunois, Morvan;Sologne bourbonnaise, Autunois, Morvan;Sologne bourbonnaise;pra548;ra300;ram300;71429
+72;Beaugeois;Sarthe sud;Sarthe Sud;Beaugeois;pra549;ra306;ram306;72345
+72;Bélinois;Région mancelle, Belinois;Région mancelle, Bellinois;Bélinois;pra550;ra307;ram307;72090
+72;Bocage des Alpes mancelles;Plaine d’Alençon, Bocage des Alpes mancelles;Plaine d'Alençon, bocage des Alpes mancelles;Bocage des Alpes mancelles;pra551;ra308;ram308;72354
+72;Bocage sabolien;Sarthe sud;Sarthe Sud;Bocage sabolien;pra552;ra306;ram306;72093
+72;Champagne mancelle;Champagne mancelle, Saosnois;Champagne mancelle, Saosnois;Champagne mancelle;pra553;ra309;ram309;72092
+72;Perche;Perche;Perche;Perche;pra554;ra310;ram310;72351
+72;Plaine d’Alençon;Plaine d’Alençon, Bocage des Alpes mancelles;Plaine d'Alençon, bocage des Alpes mancelles;Plaine d’Alençon;pra555;ra308;ram308;72355
+72;Plateau calaisien;Plateau calaisien;Plateau calaisien;Plateau calaisien;pra556;ra311;ram311;72091
+72;Saosnois;Champagne mancelle, Saosnois;Champagne mancelle, Saosnois;Saosnois;pra557;ra309;ram309;72094
+72;Vallée de la Sarthe et région mancelle;Région mancelle, Belinois;Région mancelle, Bellinois;Vallée de la Sarthe et région mancelle;pra558;ra307;ram307;72089
+72;Vallée de la Sarthe nord;Vallée de la Sarthe nord;Vallée de la Sarthe Nord;Vallée de la Sarthe et région mancelle;pra559;ra312;ram312;72089
+72;Vallée de la Sarthe sud et est;Sarthe sud;Sarthe Sud;Vallée de la Sarthe et région mancelle;pra560;ra306;ram306;72089
+72;Vallée du Loir;Sarthe sud;Sarthe Sud;Vallée du Loir;pra561;ra306;ram306;72350
+73;Albanais;Savoie ouest;Savoie Ouest;Albanais;pra562;ra313;ram313;73455
+73;Bauges;Savoie ouest;Savoie Ouest;Bauges;pra563;ra313;ram313;73456
+73;Beaufortain;Beaufortin, Tarentaise, Maurienne;Beaufortin, Tarentaise, Maurienne;Beaufortain;pra564;ra314;ram314;73230
+73;Chartreuse;Savoie ouest;Savoie Ouest;Chartreuse;pra565;ra313;ram313;73453
+73;Chautagne;Savoie ouest;Savoie Ouest;Chautagne;pra566;ra313;ram313;73213
+73;Cluse de Chambéry;Savoie ouest;Savoie Ouest;Cluse de Chambéry;pra567;ra313;ram313;73220
+73;Combe de Savoie;Savoie ouest;Savoie Ouest;Combe de Savoie;pra568;ra313;ram313;73219
+73;Le Val d'Arly;Savoie ouest;Savoie Ouest;Le Val d'Arly;pra569;ra313;ram313;73454
+73;Les Quatre Cantons;Savoie ouest;Savoie Ouest;Les Quatre Cantons;pra570;ra313;ram313;73451
+73;Maurienne;Beaufortin, Tarentaise, Maurienne;Beaufortin, Tarentaise, Maurienne;Maurienne;pra571;ra314;ram314;73229
+73;Tarentaise;Beaufortin, Tarentaise, Maurienne;Beaufortin, Tarentaise, Maurienne;Tarentaise;pra572;ra314;ram314;73458
+74;Albanais;Haute-Savoie;Haute-Savoie;Albanais;pra573;ra315;ram315;74455
+74;Bas-Chablais;Haute-Savoie;Haute-Savoie;Bas-Chablais;pra574;ra315;ram315;74226
+74;Bas-Genevois;Haute-Savoie;Haute-Savoie;Bas-Genevois;pra575;ra315;ram315;74208
+74;Bauges;Haute-Savoie;Haute-Savoie;Bauges;pra576;ra315;ram315;74456
+74;Chablais;Haute-Savoie;Haute-Savoie;Chablais;pra577;ra315;ram315;74224
+74;Cluse d'Arve;Haute-Savoie;Haute-Savoie;Cluse d'Arve;pra578;ra315;ram315;74222
+74;Giffre;Haute-Savoie;Haute-Savoie;Giffre;pra579;ra315;ram315;74223
+74;Grandes Alpes;Haute-Savoie;Haute-Savoie;Grandes Alpes;pra580;ra315;ram315;74458
+74;La Semine;Haute-Savoie;Haute-Savoie;La Semine;pra581;ra315;ram315;74210
+74;Pays de Thones;Haute-Savoie;Haute-Savoie;Pays de Thones;pra582;ra315;ram315;74227
+74;Plateau des Bornes;Haute-Savoie;Haute-Savoie;Plateau des Bornes;pra583;ra315;ram315;74228
+74;Plateau des Dranses;Haute-Savoie;Haute-Savoie;Plateau des Dranses;pra584;ra315;ram315;74225
+74;Région d'Annecy;Haute-Savoie;Haute-Savoie;Région d'Annecy;pra585;ra315;ram315;74218
+74;Région d'Annemasse;Haute-Savoie;Haute-Savoie;Région d'Annemasse;pra586;ra315;ram315;74214
+74;Sillon alpin;Haute-Savoie;Haute-Savoie;Sillon alpin;pra587;ra315;ram315;74454
+74;Vallée des Usses;Haute-Savoie;Haute-Savoie;Vallée des Usses;pra588;ra315;ram315;74211
+76;Entre Bray et Picardie;Petit Caux, Entre Bray et Picardie;Petit Caux, entre Bray et Picardie;Entre Bray et Picardie;pra589;ra316;ram316;76048
+76;Entre Caux et Vexin;Entre Caux et Vexin;Entre Caux et Vexin;Entre Caux et Vexin;pra590;ra317;ram317;76049
+76;Pays de Bray;Pays de Bray;Pays de Bray;Pays de Bray;pra591;ra318;ram318;76331
+76;Pays de Caux;Pays de Caux;Pays de Caux;Pays de Caux;pra592;ra319;ram319;76046
+76;Petit Caux;Petit Caux, Entre Bray et Picardie;Petit Caux, entre Bray et Picardie;Petit Caux;pra593;ra316;ram316;76047
+76;Vallée de la Seine;Vallée de la Seine;Vallée de la Seine;Vallée de la Seine;pra594;ra320;ram320;76332
+77;Bassée ou basse-Seine;Zone sud;Zone sud;Bassée ou basse-Seine;pra595;ra321;ram321;77320
+77;Bocage gâtinais;Zone sud;Zone sud;Bocage gâtinais;pra596;ra321;ram321;77338
+77;Brie boisée;Périurbain et vallées;Périurbain et vallées;Brie boisée;pra597;ra322;ram322;77057
+77;Brie centrale;Zone nord;Zone nord;Brie centrale;pra598;ra323;ram323;77058
+77;Brie champenoise;Zone nord;Zone nord;Brie champenoise;pra599;ra323;ram323;77335
+77;Brie est;Zone nord;Zone nord;Brie est;pra600;ra323;ram323;77060
+77;Brie française;Périurbain et vallées;Périurbain et vallées;Brie française;pra601;ra322;ram322;77337
+77;Brie humide;Zone sud;Zone sud;Brie humide;pra602;ra321;ram321;77062
+77;Brie laitière;Zone nord;Zone nord;Brie laitière;pra603;ra323;ram323;77336
+77;Butte de Dammartin;Périurbain et vallées;Périurbain et vallées;Butte de Dammartin;pra604;ra322;ram322;77045
+77;Gâtinais;Zone sud;Zone sud;Gâtinais;pra605;ra321;ram321;77339
+77;Goële et Multien;Zone nord;Zone nord;Goële et Multien;pra606;ra323;ram323;77329
+77;Montois;Zone sud;Zone sud;Montois;pra607;ra321;ram321;77059
+77;Orxois;Zone nord;Zone nord;Orxois;pra608;ra323;ram323;77056
+77;Pays de Bière et forêt de Fontainebleau;Zone sud;Zone sud;Pays de Bière et forêt de Fontainebleau;pra609;ra321;ram321;77064
+77;Vallées de la Marne et du Morin;Périurbain et vallées;Périurbain et vallées;Vallées de la Marne et du Morin;pra610;ra322;ram322;77061
+78;Beauce;Yvelines;Yvelines;Beauce;pra611;ra324;ram324;78342
+78;Ceinture de Paris;Yvelines;Yvelines;Ceinture de Paris;pra612;ra324;ram324;78333
+78;Drouais Thimerais;Yvelines;Yvelines;Drouais Thimerais;pra613;ra324;ram324;78334
+78;Hurepoix;Yvelines;Yvelines;Hurepoix;pra614;ra324;ram324;78055
+78;Plaine de Versailles;Yvelines;Yvelines;Plaine de Versailles;pra615;ra324;ram324;78053
+78;Vallée de la Seine;Yvelines;Yvelines;Vallée de la Seine;pra616;ra324;ram324;78332
+78;Vexin;Yvelines;Yvelines;Vexin;pra617;ra324;ram324;78330
+78;Yvelines;Yvelines;Yvelines;Yvelines;pra618;ra324;ram324;78054
+79;Bocage;Bocage;Bocage;Bocage;pra619;ra325;ram325;79373
+79;Entre plaine et gâtine;Plateau mellois, Entre plaine et gâtine;Plateau mellois, entre plaine et Gâtine;Entre plaine et gâtine;pra620;ra326;ram326;79366
+79;Gâtine;Gâtine;Gâtine;Gâtine;pra621;ra327;ram327;79368
+79;Marais poitevin mouillé;Marais poitevin mouillé;Marais poitevin mouillé;Marais poitevin mouillé;pra622;ra328;ram328;79370
+79;Plaine de la Mothe-Lezay;Plaine de la Mothe-Lezay;Plaine de la Mothe-Lezay;Plaine de la Mothe-Lezay;pra623;ra329;ram329;79367
+79;Plaine de Niort-Brioux;Plaine de Niort-Brioux;Plaine de Niort-Brioux;Plaine de Niort-Brioux;pra624;ra330;ram330;79371
+79;Plaine de Thouars;Plaine de Thouars;Plaine de Thouars;Plaine de Thouars;pra625;ra331;ram331;79349
+79;Plateau mellois;Plateau mellois, Entre plaine et gâtine;Plateau mellois, entre plaine et Gâtine;Plateau mellois;pra626;ra326;ram326;79109
+80;Marquenterre;Vimeu, Marquenterre;Vimeu, Marquenterre;Marquenterre;pra627;ra332;ram332;80037
+80;Plateau picard;Plateau picard;Plateau picard;Plateau picard;pra628;ra333;ram333;80327
+80;Ponthieu;Ponthieu;Ponthieu;Ponthieu;pra629;ra334;ram334;80036
+80;Santerre;Santerre;Santerre;Santerre;pra630;ra335;ram335;80035
+80;Vimeu;Vimeu, Marquenterre;Vimeu, Marquenterre;Vimeu;pra631;ra332;ram332;80038
+81;Causses du Quercy;Tarn croissant nord-est;Tarn croissant Nord-Est;Causses du Quercy;pra632;ra336;ram336;81395
+81;Coteaux molassiques;Tarn croissant nord-est;Tarn croissant Nord-Est;Coteaux molassiques;pra633;ra336;ram336;81152
+81;Gaillacois;Gaillacois;Gaillacois;Gaillacois;pra634;ra337;ram337;81151
+81;Lauragais;Tarn centre-sud;Tarn Centre Sud;Lauragais;pra635;ra338;ram338;81391
+81;Montagne noire;Tarn centre-sud;Tarn Centre Sud;Montagne noire;pra636;ra338;ram338;81413
+81;Monts de Lacaune;Tarn croissant nord-est;Tarn croissant Nord-Est;Monts de Lacaune;pra637;ra336;ram336;81412
+81;Plaine de l'Albigeois et du Castrais;Tarn centre-sud;Tarn Centre Sud;Plaine de l'Albigeois et du Castrais;pra638;ra338;ram338;81153
+81;Ségala;Tarn croissant nord-est;Tarn croissant Nord-Est;Ségala;pra639;ra336;ram336;81409
+82;Bas-Quercy de Montclar;Bas-Quercy de Montclar, Lauragais;Bas Quercy de Montclars et Lauragais;Bas-Quercy de Montclar;pra640;ra339;ram339;82154
+82;Bas-Quercy de Montpezat;Bas-Quercy de Montpezat, Pays de Serres;Bas Quercy de Montpezat, pays de Serres;Bas-Quercy de Montpezat;pra641;ra340;ram340;82155
+82;Causses du Quercy;Causses du Quercy, Rouergue;Causses du Quercy, Rouergue;Causses du Quercy;pra642;ra341;ram341;82395
+82;Coteaux du Gers;Coteaux du Gers, Lomagne;Coteaux du Gers, Lomagne;Coteaux du Gers;pra643;ra342;ram342;82385
+82;Lauragais;Bas-Quercy de Montclar, Lauragais;Bas Quercy de Montclars et Lauragais;Lauragais;pra644;ra339;ram339;82391
+82;Lomagne;Coteaux du Gers, Lomagne;Coteaux du Gers, Lomagne;Lomagne;pra645;ra342;ram342;82384
+82;Neracois;Vallées et terrasses, Neracois;Vallées et terrasses, Néracois;Neracois;pra646;ra343;ram343;82398
+82;Pays de Serres;Bas-Quercy de Montpezat, Pays de Serres;Bas Quercy de Montpezat, pays de Serres;Pays de Serres;pra647;ra340;ram340;82399
+82;Quercy blanc;Causses du Quercy, Rouergue;Causses du Quercy, Rouergue;Quercy blanc;pra648;ra341;ram341;82396
+82;Rouergue;Causses du Quercy, Rouergue;Causses du Quercy, Rouergue;Rouergue;pra649;ra341;ram341;82397
+82;Vallées et terrasses;Vallées et terrasses, Neracois;Vallées et terrasses, Néracois;Vallées et terrasses;pra650;ra343;ram343;82390
+83;Coteaux de Provence;Coteaux de Provence;Coteaux de Provence;Coteaux de Provence;pra651;ra344;ram344;83468
+83;Littoral de Provence;Littoral de Provence;Littoral de Provence;Littoral de Provence;pra652;ra345;ram345;83469
+83;Maures et Esterel;Maures et Esterel;Maures et Estérel;Maures et Esterel;pra653;ra346;ram346;83247
+83;Montagne de Haute-Provence;Montagne de Haute-Provence;Montagne de Haute-Provence;Montagne de Haute-Provence;pra654;ra347;ram347;83460
+83;Régions fruitières de Solliès-Pont et de Fréjus;Régions fruitières de Solliès-Pont et de Fréjus;Régions fruitières de Solliès-Pont et de Fréjus;Régions fruitières de Solliès-Pont et de Fréjus;pra655;ra348;ram348;83248
+84;Barronnies;Haut-Vaucluse;Haut Vaucluse;Barronnies;pra656;ra349;ram349;84463
+84;Basse-vallée de la Durance;Basse-vallée de la Durance;Basse vallée de la Durance;Basse-vallée de la Durance;pra657;ra350;ram350;84466
+84;Comtat;Comtat;Comtat;Comtat;pra658;ra351;ram351;84467
+84;Monts du Ventoux, de Vaucluse et du Luberon;Monts du Ventoux, de Vaucluse et du Luberon;Monts du Ventoux, de Vaucluse et du Lubéron;Monts du Ventoux, de Vaucluse et du Luberon;pra659;ra352;ram352;84238
+84;Plateau de Saint-Christol;Plateau de Saint-Christol;Plateau de Saint-Christol;Plateau de Saint-Christol;pra660;ra353;ram353;84462
+84;Tricastin;Haut-Vaucluse;Haut-Vaucluse;Tricastin;pra661;ra349;ram353;84464
+85;Bas-bocage;Bas-bocage;Bas bocage;Bas-bocage;pra662;ra354;ram354;85368
+85;Bocage de Chantonnay;Bas-bocage;Bas bocage;Bocage de Chantonnay;pra663;ra354;ram354;85110
+85;Entre plaine et bocage;Bas-bocage;Bas bocage;Entre plaine et bocage;pra664;ra354;ram354;85366
+85;Haut-bocage;Haut-bocage;Haut bocage;Haut-bocage;pra665;ra355;ram355;85373
+85;Marais breton;Marais breton;Marais breton;Marais breton;pra666;ra356;ram356;85365
+85;Marais poitevin desséché;Marais poitevin;Marais poitevin;Marais poitevin desséché;pra667;ra357;ram357;85369
+85;Marais poitevin mouillé;Marais poitevin;Marais poitevin;Marais poitevin mouillé;pra668;ra357;ram357;85370
+85;Plaine vendéenne;Plaine vendéenne;Plaine vendéenne;Plaine vendéenne;pra669;ra358;ram358;85371
+86;Confins granitiques du Limousin;Brandes et confins granitiques;Brandes et confins granitiques;Confins granitiques du Limousin;pra670;ra359;ram359;86182
+86;Gâtine;Gâtine;Gâtine;Gâtine;pra671;ra360;ram360;86368
+86;Plaine de Loudun, Richelieu et Châtellerault;Plaine de Loudun, Châtellerault;Plaine de Loudun, Châtellerault;Plaine de Loudun, Richelieu et Châtellerault;pra672;ra361;ram361;86348
+86;Plaine de Thouars Moncontour;Plaine de Thouars, Saumurois;Plaine de Thouars, Saumurois;Plaine de Thouars Moncontour;pra673;ra362;ram362;86349
+86;Région des Brandes;Brandes et confins granitiques;Brandes et confins granitiques;Région des Brandes;pra674;ra359;ram359;86438
+86;Saumurois;Plaine de Thouars, Saumurois;Plaine de Thouars, Saumurois;Saumurois;pra675;ra362;ram362;86347
+86;Terres rouges à châtaigniers;Terres rouges à châtaigniers;Terres rouges à châtaigniers;Terres rouges à châtaigniers;pra676;ra363;ram363;86372
+87;Haut-Limousin;Plateau de Millevaches, Haut-Limousin;Plateau de Millevaches, Haut-Limousin;Haut-Limousin;pra677;ra364;ram364;87432
+87;Marche;Marche;Marche;Marche;pra678;ra365;ram365;87431
+87;Plateau de Millevaches;Plateau de Millevaches, Haut-Limousin;Plateau de Millevaches, Haut-Limousin;Plateau de Millevaches;pra679;ra364;ram364;87430
+88;Barrois;Haye, Châtenois, Côte de Meuse, Barrois;La Haye, Châtenois, côte de Meuse, Barrois;Barrois;pra680;ra366;ram366;88314
+88;Châtenois;Haye, Châtenois, Côte de Meuse, Barrois;La Haye, Châtenois, côte de Meuse, Barrois;Châtenois;pra681;ra366;ram366;88310
+88;Côte de Meuse;Haye, Châtenois, Côte de Meuse, Barrois;La Haye, Châtenois, côte de Meuse, Barrois;Côte de Meuse;pra682;ra366;ram366;88313
+88;Haye;Haye, Châtenois, Côte de Meuse, Barrois;La Haye, Châtenois, côte de Meuse, Barrois;La Haye;pra683;ra366;ram366;88305
+88;Montagne vosgienne;Montagne vosgienne, Vôge;Montagne vosgienne, Vôge;Montagne vosgienne;pra684;ra367;ram367;88307
+88;Plateau lorrain;Plateau lorrain;Plateau lorrain;Plateau lorrain sud;pra685;ra368;ram368;88306
+88;Vôge;Montagne vosgienne, Vôge;Montagne vosgienne, Vôge;Vôge;pra686;ra367;ram367;88309
+89;Basse-Yonne;Sénonais, Gâtinais;Senonais, Gâtinais;Basse-Yonne;pra687;ra369;ram369;89320
+89;Champagne crayeuse;Sénonais, Gâtinais;Senonais, Gâtinais;Champagne crayeuse;pra688;ra369;ram369;89317
+89;Gâtinais pauvre;Sénonais, Gâtinais;Senonais, Gâtinais;Gâtinais pauvre;pra689;ra369;ram369;89338
+89;Morvan;Terre Plaine, Morvan;Terre plaine, Morvan;Morvan;pra690;ra370;ram370;89443
+89;Pays d'Othe;Vallées, Pays d'Othe;Vallées, pays d'Othe;Pays d'Othe;pra691;ra371;ram371;89319
+89;Plateaux de Bourgogne;Plateaux de Bourgogne;Plateaux de Bourgogne;Plateaux de Bourgogne;pra692;ra372;ram372;89186
+89;Puisaye;Puisaye;Puisaye;Puisaye;pra693;ra373;ram373;89340
+89;Terre Plaine;Terre Plaine, Morvan;Terre plaine, Morvan;Terre Plaine;pra694;ra370;ram370;89442
+89;Vallées;Vallées, Pays d'Othe;Vallées, pays d'Othe;Vallées;pra695;ra371;ram371;89322
+90;Montagne vosgienne;Territoire de Belfort;Territoire de Belfort;Montagne vosgienne;pra696;ra374;ram374;90307
+90;Plateaux moyens du Jura;Territoire de Belfort;Territoire de Belfort;Plateaux moyens du Jura;pra697;ra374;ram374;90450
+90;Sundgau;Territoire de Belfort;Territoire de Belfort;Sundgau;pra698;ra374;ram374;90303
+90;Trouée de Belfort;Territoire de Belfort;Territoire de Belfort;Trouée de Belfort;pra699;ra374;ram374;90448
+91;Beauce;Essonne;Essonne;Beauce;pra700;ra375;ram375;91342
+91;Brie française;Essonne;Essonne;Brie française;pra701;ra375;ram375;91337
+91;Ceinture de Paris;Essonne;Essonne;Ceinture de Paris;pra702;ra375;ram375;91333
+91;Gâtinais;Essonne;Essonne;Gâtinais;pra703;ra375;ram375;91339
+91;Hurepoix;Essonne;Essonne;Hurepoix;pra704;ra375;ram375;91055
+92;Ceinture de Paris;Hauts-de-Seine;Hauts-de-Seine;Ceinture de Paris;pra705;ra376;ram376;92333
+93;Ceinture de Paris;Seine-Saint-Denis;Seine-Saint-Denis;Ceinture de Paris;pra706;ra377;ram377;93333
+93;Vieille France;Seine-Saine-Denis;Seine-Saine-Denis;Vieille France;pra707;ra377;ram377;93329
+94;Ceinture de Paris;Val-de-Marne;Val-de-Marne;Ceinture de Paris;pra708;ra378;ram378;94333
+95;Ceinture de Paris;Val-d'Oise;Val-d'Oise;Ceinture de Paris;pra709;ra379;ram379;95333
+95;Vallée de la Seine;Val-d'Oise;Val-d'Oise;Vallée de la Seine;pra710;ra379;ram379;95332
+95;Vexin;Val-d'Oise;Val-d'Oise;Vexin;pra711;ra379;ram379;95330
+95;Vieille France;Val-d'Oise;Val-d'Oise;Vieille France;pra712;ra379;ram379;95329
+2A;Coteaux corses;Coteaux corses, Montagne corse;Corse-du-sud;Coteaux corses;pra713;ra380;ram384;2A259
+2A;Littoral corse;Littoral corse;Corse-du-sud;Littoral corse;pra714;ra381;ram385;2A258
+2A;Montagne corse;Coteaux corses, Montagne corse;Corse-du-sud;Montagne corse;pra715;ra380;ram386;2A260
+2B;Coteaux corses;Coteaux corses, Montagne corse;Coteaux corses;Coteaux corses;pra716;ra382;ram381;2B259
+2B;Littoral corse;Littoral corse;Littoral corse;Littoral corse;pra717;ra383;ram382;2B258
+2B;Montagne corse;Coteaux corses, Montagne corse;Montagne corse;Montagne corse;pra718;ra382;ram383;2B260
+971;Guadeloupe;Guadeloupe;Guadeloupe;Guadeloupe;pra971;ra971;ram971;971
+972;Martinique;Martinique;Martinique;Martinique;pra972;ra972;ram972;972
+973;Guyane;Guyane;Guyane;Guyane;pra973;ra973;ram973;973
+974;La Réunion;La Réunion;La Réunion;La Réunion;pra974;ra974;ram974;974
+976;Mayotte;Mayotte;Mayotte;Mayotte;pra976;ra976;ram976;976
+72;Vallée de la Sarthe sud et est;Sarthe sud;Sarthe Sud;Vallée de la Sarthe et région mancelle;pra560;ra306;ram306;72089
